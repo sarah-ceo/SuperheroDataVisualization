@@ -1,0 +1,729 @@
+ID,Name,Full-Name,Publisher,Place of Birth,Intelligence,Strength,Speed,Durability,Power,Combat,Image
+1,A-Bomb,Richard Milhouse Jones,Marvel Comics,"Scarsdale, Arizona",38,100,17,80,24,64,https://www.superherodb.com/pictures2/portraits/10/100/10060.jpg
+2,Abe Sapien,Abraham Sapien,Dark Horse Comics,-,88,28,35,65,100,85,https://www.superherodb.com/pictures2/portraits/10/100/956.jpg
+3,Abin Sur,,DC Comics,Ungara,50,90,53,64,99,65,https://www.superherodb.com/pictures2/portraits/10/100/1460.jpg
+4,Abomination,Emil Blonsky,Marvel Comics,"Zagreb, Yugoslavia",63,80,53,90,62,95,https://www.superherodb.com/pictures2/portraits/10/100/1.jpg
+5,Abraxas,Abraxas,Marvel Comics,Within Eternity,88,63,83,100,100,55,https://www.superherodb.com/pictures2/portraits/10/100/181.jpg
+6,Absorbing Man,Carl Creel,Marvel Comics,"New York City, New York",38,80,25,100,98,64,https://www.superherodb.com/pictures2/portraits/10/100/1448.jpg
+7,Adam Monroe,,NBC - Heroes,-,63,10,12,100,100,64,https://www.superherodb.com/pictures2/portraits/10/100/1026.jpg
+8,Adam Strange,Adam Strange,DC Comics,"Chicago, Illinois",69,10,33,40,37,50,https://www.superherodb.com/pictures2/portraits/10/100/626.jpg
+9,Agent 13,Sharon Carter,Sharon Carter,-,null,46,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/167.jpg
+10,Agent Bob,Bob,Marvel Comics,-,10,8,13,5,5,20,https://www.superherodb.com/pictures2/portraits/10/100/10255.jpg
+11,Agent Zero,Christoph Nord,Marvel Comics,Unrevealed location in former East Germany,75,28,38,80,72,95,https://www.superherodb.com/pictures2/portraits/10/100/396.jpg
+12,Air-Walker,Gabriel Lan,Marvel Comics,"Xandar, a planet in the Tranta system, Andromeda galaxy",50,85,100,85,100,40,https://www.superherodb.com/pictures2/portraits/10/100/1358.jpg
+13,Ajax,Francis,Marvel Comics,-,56,48,35,80,34,55,https://www.superherodb.com/pictures2/portraits/10/100/10422.jpg
+14,Alan Scott,Alan Ladd Wellington Scott,DC Comics,Gotham City,63,80,23,90,100,32,https://www.superherodb.com/pictures2/portraits/10/100/698.jpg
+15,Alex Mercer,Alexander J. Mercer,Wildstorm,-,50,80,42,90,100,50,https://www.superherodb.com/pictures2/portraits/10/100/10398.jpg
+16,Alex Woolsly,Alex Woolsly,NBC - Heroes,-,null,37,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1309.jpg
+17,Alfred Pennyworth,Alfred Thaddeus Crane Pennyworth,DC Comics,-,63,10,17,10,7,55,https://www.superherodb.com/pictures2/portraits/10/100/628.jpg
+18,Alien,Xenomorph,Dark Horse Comics,Your chest :),50,28,42,90,57,60,https://www.superherodb.com/pictures2/portraits/10/100/10449.jpg
+19,Allan Quatermain,,Wildstorm,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/630.jpg
+20,Amazo,,DC Comics,-,63,100,83,100,100,100,https://www.superherodb.com/pictures2/portraits/10/100/1390.jpg
+21,Ammo,,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/184.jpg
+22,Ando Masahashi,Ando Masahashi,NBC - Heroes,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1310.jpg
+23,Angel,Liam,Dark Horse Comics,-,75,30,58,90,100,75,https://www.superherodb.com/pictures2/portraits/10/100/10431.jpg
+24,Angel,Warren Kenneth Worthington III,Archangel,"Centerport, Long Island, New York",63,13,46,64,28,42,https://www.superherodb.com/pictures2/portraits/10/100/829.jpg
+25,Angel Dust,Christina,Marvel Comics,-,38,55,23,42,17,30,https://www.superherodb.com/pictures2/portraits/10/100/10405.jpg
+26,Angel Salvadore,Angel Salvadore Bohusk,Tempest,-,38,10,28,28,56,60,https://www.superherodb.com/pictures2/portraits/10/100/1406.jpg
+27,Angela,,Image Comics,-,null,97,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1070.jpg
+28,Animal Man,Bernhard Baker,DC Comics,-,56,48,47,85,73,80,https://www.superherodb.com/pictures2/portraits/10/100/632.jpg
+29,Annihilus,Annihilus,Marvel Comics,"Planet of Arthros, Sector 17A, Negative Zone",75,80,47,56,59,64,https://www.superherodb.com/pictures2/portraits/10/100/1307.jpg
+30,Ant-Man,Hank Pym,Giant-Man,"Elmsford, New York",100,18,23,28,32,32,https://www.superherodb.com/pictures2/portraits/10/100/857.jpg
+31,Ant-Man II,Scott Lang,Marvel Comics,"Coral Gables, Florida",75,18,17,40,53,30,https://www.superherodb.com/pictures2/portraits/10/100/166.jpg
+32,Anti-Monitor,,DC Comics,Moon of Qward,88,100,50,100,100,90,https://www.superherodb.com/pictures2/portraits/10/100/1292.jpg
+33,Anti-Spawn,Jason Wynn,Image Comics,-,null,58,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1071.jpg
+34,Anti-Venom,Eddie Brock,Toxin,"San Francisco, California",75,60,65,90,96,84,https://www.superherodb.com/pictures2/portraits/10/100/1485.jpg
+35,Apocalypse,En Sabah Nur,Marvel Comics,"Akkaba, Egypt",100,100,33,100,100,60,https://www.superherodb.com/pictures2/portraits/10/100/852.jpg
+36,Aquababy,"Arthur Curry, Jr.",DC Comics,-,10,16,12,14,37,14,https://www.superherodb.com/pictures2/portraits/10/100/1389.jpg
+37,Aqualad,Garth,DC Comics,"Poseidonis, Atlantis",63,44,42,75,89,60,https://www.superherodb.com/pictures2/portraits/10/100/1395.jpg
+38,Aquaman,Orin,DC Comics,Atlantis,81,85,79,80,100,80,https://www.superherodb.com/pictures2/portraits/10/100/634.jpg
+39,Arachne,Julia Carpenter,Marvel Comics,"Los Angeles, California",50,48,50,70,71,70,https://www.superherodb.com/pictures2/portraits/10/100/882.jpg
+40,Archangel,Warren Kenneth Worthington III,Angel,"Centerport, Long Island, New York",63,13,58,64,35,42,https://www.superherodb.com/pictures2/portraits/10/100/838.jpg
+41,Arclight,Philippa Sontag,Marvel Comics,Vietnam,38,63,23,42,52,70,https://www.superherodb.com/pictures2/portraits/10/100/832.jpg
+42,Ardina,Ardina,Marvel Comics,-,63,100,100,80,100,25,https://www.superherodb.com/pictures2/portraits/10/100/10132.jpg
+43,Ares,,Marvel Comics,-,75,82,35,80,84,101,https://www.superherodb.com/pictures2/portraits/10/100/1118.jpg
+44,Ariel,Ariel,Marvel Comics,-,50,10,12,14,94,28,https://www.superherodb.com/pictures2/portraits/10/100/1348.jpg
+45,Armor,Hisako Ichiki,Marvel Comics,-,50,63,12,80,55,54,https://www.superherodb.com/pictures2/portraits/10/100/1347.jpg
+46,Arsenal,"Roy William Harper, Jr.",Speedy,-,null,54,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1014.jpg
+47,Astro Boy,Atom,null,-,null,90,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1159.jpg
+48,Atlas,Erik Josten,Goliath,"Milwaukee, Wisconsin",63,80,25,100,98,50,https://www.superherodb.com/pictures2/portraits/10/100/878.jpg
+49,Atlas,,DC Comics,Crystal Mountain,63,100,42,100,27,80,https://www.superherodb.com/pictures2/portraits/10/100/10838.jpg
+50,Atom,Albert Pratt,DC Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/934.jpg
+51,Atom,,DC Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1379.jpg
+52,Atom Girl,Salu Digby,DC Comics,-,38,10,23,28,38,42,https://www.superherodb.com/pictures2/portraits/10/100/1180.jpg
+53,Atom II,Ray Palmer,DC Comics,-,88,10,33,45,40,60,https://www.superherodb.com/pictures2/portraits/10/100/938.jpg
+54,Atom III,Adam Cray,DC Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/939.jpg
+55,Atom IV,Ryan Choi,DC Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/940.jpg
+56,Aurora,Jeanne-Marie Beaubier,Marvel Comics,"Montreal, Quebec, Canada",63,10,96,60,74,56,https://www.superherodb.com/pictures2/portraits/10/100/1289.jpg
+57,Azazel,,Marvel Comics,"Isla des Demonas, Caribbean Sea",50,11,47,95,100,80,https://www.superherodb.com/pictures2/portraits/10/100/1481.jpg
+58,Azrael,Michael Washington Lane,DC Comics,Gotham City,63,18,17,20,35,80,https://www.superherodb.com/pictures2/portraits/10/100/1532.jpg
+59,Aztar,Aztar,Spectre,-,null,98,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1012.jpg
+60,Bane,,DC Comics,-,88,38,23,56,51,95,https://www.superherodb.com/pictures2/portraits/10/100/637.jpg
+61,Banshee,Sean Cassidy,Marvel Comics,"Cassidy Keep, Ireland",50,10,58,40,63,70,https://www.superherodb.com/pictures2/portraits/10/100/26.jpg
+62,Bantam,Roberto Velasquez,Marvel Comics,-,25,53,23,54,21,56,https://www.superherodb.com/pictures2/portraits/10/100/229.jpg
+63,Batgirl,Barbara Gordon,Oracle,-,88,11,33,40,34,90,https://www.superherodb.com/pictures2/portraits/10/100/1111.jpg
+64,Batgirl,Mary Elizabeth Kane,Hawkfire,-,null,27,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/638.jpg
+65,Batgirl III,Helena Rosa Bertinelli,Huntress,-,null,43,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1112.jpg
+66,Batgirl IV,Cassandra Cain,DC Comics,League of Assassins (exact base is unknown),69,12,27,56,46,100,https://www.superherodb.com/pictures2/portraits/10/100/1113.jpg
+67,Batgirl V,Charlotte Gage-Radcliffe,Misfit,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1115.jpg
+68,Batgirl VI,Stephanie Brown,Spoiler,-,75,10,23,28,22,80,https://www.superherodb.com/pictures2/portraits/10/100/1398.jpg
+69,Batman,Terry McGinnis,DC Comics,"Gotham City, 25th Century",81,40,29,55,63,90,https://www.superherodb.com/pictures2/portraits/10/100/10441.jpg
+70,Batman,Bruce Wayne,DC Comics,"Crest Hill, Bristol Township; Gotham County",100,26,27,50,47,100,https://www.superherodb.com/pictures2/portraits/10/100/639.jpg
+71,Batman II,Dick Grayson,Nightwing,-,88,11,33,28,36,100,https://www.superherodb.com/pictures2/portraits/10/100/1496.jpg
+72,Battlestar,Lemar Hoskins,Marvel Comics,"Chicago, Illinois",50,53,35,74,48,74,https://www.superherodb.com/pictures2/portraits/10/100/231.jpg
+73,Batwoman V,Katherine Rebecca Kane,DC Comics,-,81,8,29,25,27,80,https://www.superherodb.com/pictures2/portraits/10/100/10234.jpg
+74,Beak,Barnell Bohusk,Marvel Comics,"Cheverly, Maryland",null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/232.jpg
+75,Beast,Henry Philip McCoy,Marvel Comics,"Dunfee, Illinois",94,48,38,60,43,85,https://www.superherodb.com/pictures2/portraits/10/100/27.jpg
+76,Beast Boy,Garfield Mark Logan,DC Comics,-,50,28,50,70,79,40,https://www.superherodb.com/pictures2/portraits/10/100/640.jpg
+77,Beetle,,Marvel Comics,-,null,54,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1122.jpg
+78,Ben 10,Benjamin Kirby Tennyson,DC Comics,-,10,7,8,10,90,40,https://www.superherodb.com/pictures2/portraits/10/100/1365.jpg
+79,Beta Ray Bill,Beta Ray Bill (translation of his Korbinite name),Marvel Comics,Burning Galaxy,63,80,35,95,100,84,https://www.superherodb.com/pictures2/portraits/10/100/28.jpg
+80,Beyonder,,Marvel Comics,Created in the Beyond,100,100,100,100,100,84,https://www.superherodb.com/pictures2/portraits/10/100/1293.jpg
+81,Big Barda,Barda Free,DC Comics,-,88,100,79,100,100,100,https://www.superherodb.com/pictures2/portraits/10/100/1169.jpg
+82,Big Daddy,Damon Macready,Icon Comics,-,38,10,12,32,22,64,https://www.superherodb.com/pictures2/portraits/10/100/1338.jpg
+83,Big Man,Frederick Foswell,Marvel Comics,-,75,12,23,28,19,70,https://www.superherodb.com/pictures2/portraits/10/100/1038.jpg
+84,Bill Harken,,SyFy,-,63,36,33,60,27,40,https://www.superherodb.com/pictures2/portraits/10/100/1527.jpg
+85,Billy Kincaid,Billy Kincaid,Image Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1072.jpg
+86,Binary,Carol Danvers,Captain Marvel,"Boston, Massachusetts",null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/30.jpg
+87,Bionic Woman,Jamie Sommers,,-,56,37,33,40,20,40,https://www.superherodb.com/pictures2/portraits/10/100/10648.jpg
+88,Bird-Brain,,Marvel Comics,-,25,10,35,28,21,42,https://www.superherodb.com/pictures2/portraits/10/100/240.jpg
+89,Bird-Man,Henry Hawk,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1503.jpg
+90,Bird-Man II,Achille DiBacco,Marvel Comics,"The Bar with No Name, Medina County, Ohio",null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1504.jpg
+91,Birdman,Ray Randal,Hanna-Barbera,-,null,35,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1506.jpg
+92,Bishop,Lucas Bishop,Marvel Comics,A mutant relocation camp in an undisclosed location on an alternate 21st Century Earth,63,14,23,75,100,65,https://www.superherodb.com/pictures2/portraits/10/100/31.jpg
+93,Bizarro,Bizarro,DC Comics,-,38,95,100,100,100,85,https://www.superherodb.com/pictures2/portraits/10/100/642.jpg
+94,Black Abbott,,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1049.jpg
+95,Black Adam,Teth-Adam,DC Comics,"Kahndaq, Egypt",88,100,92,100,100,56,https://www.superherodb.com/pictures2/portraits/10/100/643.jpg
+96,Black Bolt,Blackagar Boltagon,Marvel Comics,"Attilan, Atlantic Ocean",75,67,100,84,100,56,https://www.superherodb.com/pictures2/portraits/10/100/243.jpg
+97,Black Canary,Laurel Lance,DC Comics,-,63,8,33,20,52,80,https://www.superherodb.com/pictures2/portraits/10/100/1005.jpg
+98,Black Canary,Dinah Drake Lance,DC Comics,-,63,8,33,15,45,80,https://www.superherodb.com/pictures2/portraits/10/100/644.jpg
+99,Black Cat,Felicia Hardy,Marvel Comics,"Queens, New York",75,16,33,10,23,70,https://www.superherodb.com/pictures2/portraits/10/100/32.jpg
+100,Black Flash,,DC Comics,-,44,10,100,80,100,30,https://www.superherodb.com/pictures2/portraits/10/100/10831.jpg
+101,Black Goliath,,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/245.jpg
+102,Black Knight III,Dane Whitman,Marvel Comics,"Gloucester, Massachusetts",63,10,8,70,43,70,https://www.superherodb.com/pictures2/portraits/10/100/246.jpg
+103,Black Lightning,Jefferson Pierce,DC Comics,-,50,11,53,28,70,75,https://www.superherodb.com/pictures2/portraits/10/100/1128.jpg
+104,Black Mamba,Tanya Sealy,Marvel Comics,"Chicago, Illinois",75,10,35,42,88,65,https://www.superherodb.com/pictures2/portraits/10/100/1106.jpg
+105,Black Manta,David,DC Comics,-,75,28,50,60,76,85,https://www.superherodb.com/pictures2/portraits/10/100/10546.jpg
+106,Black Panther,T'Challa,Marvel Comics,"Wakanda, Africa",88,16,30,60,41,100,https://www.superherodb.com/pictures2/portraits/10/100/247.jpg
+107,Black Widow,Natasha Romanoff,Marvel Comics,-,75,13,33,30,36,100,https://www.superherodb.com/pictures2/portraits/10/100/248.jpg
+108,Black Widow II,Yelena Belova,Marvel Comics,-,null,48,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/618.jpg
+109,Blackout,,Marvel Comics,-,63,32,45,80,45,65,https://www.superherodb.com/pictures2/portraits/10/100/1507.jpg
+110,Blackwing,Joseph Manfredi,Marvel Comics,Professional Criminal,38,10,35,32,20,56,https://www.superherodb.com/pictures2/portraits/10/100/249.jpg
+111,Blackwulf,Lucian,Marvel Comics,Armechadon,50,28,8,30,69,25,https://www.superherodb.com/pictures2/portraits/10/100/1508.jpg
+112,Blade,Eric Brooks,Marvel Comics,"Soho, London,England",63,28,38,50,40,90,https://www.superherodb.com/pictures2/portraits/10/100/33.jpg
+113,Blaquesmith,-,Vertigo II,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/34.jpg
+114,Bling!,Roxanne Washington,Marvel Comics,-,69,14,12,90,52,28,https://www.superherodb.com/pictures2/portraits/10/100/1349.jpg
+115,Blink,Clarice Ferguson,Marvel Comics,Bahamas,50,8,20,28,77,64,https://www.superherodb.com/pictures2/portraits/10/100/35.jpg
+116,Blizzard,Gregor Shapanka,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/899.jpg
+117,Blizzard,,Marvel Comics,-,null,72,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/898.jpg
+118,Blizzard II,Donald Gill,Marvel Comics,"Newark, Delaware",38,10,27,42,47,56,https://www.superherodb.com/pictures2/portraits/10/100/619.jpg
+119,Blob,Frederick J. Dukes,Marvel Comics,"Lubbock, Texas",10,83,23,95,28,72,https://www.superherodb.com/pictures2/portraits/10/100/1119.jpg
+120,Bloodaxe,Jackie Lukus,Marvel Comics,-,63,80,33,80,100,84,https://www.superherodb.com/pictures2/portraits/10/100/1509.jpg
+121,Bloodhawk,Lemuel Krug,Marvel Comics,-,50,10,50,80,80,64,https://www.superherodb.com/pictures2/portraits/10/100/1510.jpg
+122,Bloodwraith,Sean Dolan,Marvel Comics,-,null,72,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/186.jpg
+123,Blue Beetle,Daniel Garrett,DC Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/646.jpg
+124,Blue Beetle,,DC Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1010.jpg
+125,Blue Beetle II,Theodore Kord,DC Comics,"Chicago, Illinois",null,45,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1008.jpg
+126,Blue Beetle III,Jaime Reyes,DC Comics,Presumed to be El Paso,50,34,58,80,100,30,https://www.superherodb.com/pictures2/portraits/10/100/1009.jpg
+127,Boba Fett,,George Lucas,Kamino,63,10,38,36,68,70,https://www.superherodb.com/pictures2/portraits/10/100/10467.jpg
+128,Bolt,,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1340.jpg
+129,Bomb Queen,,Image Comics,-,null,73,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1116.jpg
+130,Boom-Boom,Tabitha Smith,Meltdown,-,38,10,12,42,57,64,https://www.superherodb.com/pictures2/portraits/10/100/400.jpg
+131,Boomer,,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/259.jpg
+133,Box,Roger Bochs,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/864.jpg
+134,Box III,Dr. Walter Langowski,Marvel Comics,British Columbia,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/37.jpg
+135,Box IV,Madison Jeffries,Gemini V,Place of birth unknown,50,75,23,28,11,56,https://www.superherodb.com/pictures2/portraits/10/100/38.jpg
+136,Brainiac,Vril Dox,DC Comics,-,100,95,63,90,60,75,https://www.superherodb.com/pictures2/portraits/10/100/648.jpg
+137,Brainiac 5,Querl Dox,DC Comics,-,100,10,23,28,60,32,https://www.superherodb.com/pictures2/portraits/10/100/1183.jpg
+138,Brother Voodoo,Jericho Drumm,Marvel Comics,"Port-au-Prince, Haiti",null,65,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/39.jpg
+139,Brundlefly,Seth Brundle,,-,69,32,25,40,27,15,https://www.superherodb.com/pictures2/portraits/10/100/10642.jpg
+140,Buffy,Buffy Anne Summers,Dark Horse Comics,-,63,28,42,70,48,60,https://www.superherodb.com/pictures2/portraits/10/100/10430.jpg
+141,Bullseye,Lester,Marvel Comics,-,50,11,25,70,20,70,https://www.superherodb.com/pictures2/portraits/10/100/624.jpg
+142,Bumblebee,Karen Beecher,DC Comics,-,63,28,25,10,47,35,https://www.superherodb.com/pictures2/portraits/10/100/1542.jpg
+143,Bumbleboy,,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1346.jpg
+144,Bushido,Ryuko Orsono,DC Comics,-,38,10,8,10,19,70,https://www.superherodb.com/pictures2/portraits/10/100/1541.jpg
+145,Cable,Nathan Summers,Marvel Comics,Unrevealed location in the 20th Century United States,88,48,23,56,100,80,https://www.superherodb.com/pictures2/portraits/10/100/40.jpg
+146,Callisto,Callisto,Marvel Comics,-,63,53,23,42,52,85,https://www.superherodb.com/pictures2/portraits/10/100/271.jpg
+147,Cameron Hicks,,SyFy,-,50,10,23,28,51,70,https://www.superherodb.com/pictures2/portraits/10/100/1528.jpg
+148,Cannonball,Samuel Zachery Guthrie,Marvel Comics,"Cumberland County, Kentucky",50,28,67,99,94,56,https://www.superherodb.com/pictures2/portraits/10/100/272.jpg
+149,Captain America,Steve Rogers,Marvel Comics,"Manhattan, New York City, New York",69,19,38,55,60,100,https://www.superherodb.com/pictures2/portraits/10/100/274.jpg
+150,Captain Atom,Nathaniel Adam,DC Comics,-,81,93,83,90,100,80,https://www.superherodb.com/pictures2/portraits/10/100/1007.jpg
+151,Captain Britain,Brian Braddock,Marvel Comics,"Braddock Manor, England",75,77,50,60,31,80,https://www.superherodb.com/pictures2/portraits/10/100/276.jpg
+152,Captain Cold,Leonard Snart,DC Comics,-,50,10,17,20,28,20,https://www.superherodb.com/pictures2/portraits/10/100/653.jpg
+153,Captain Epic,,Team Epic TV,Canada,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/3.jpg
+154,Captain Hindsight,Jack Brolin,South Park,-,25,10,83,30,10,20,https://www.superherodb.com/pictures2/portraits/10/100/10399.jpg
+155,Captain Mar-vell,Mar-Vell,Marvel Comics,The city of Rad-Nam on the planet Kree-Lar in the Kree Galaxy (Greater Magellanic Cloud),null,80,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/654.jpg
+156,Captain Marvel,Billy Batson,DC Comics,"Fawcett City, United States",88,100,88,95,100,75,https://www.superherodb.com/pictures2/portraits/10/100/278.jpg
+157,Captain Marvel,Carol Danvers,Binary,"Boston, Massachusetts",84,88,71,95,100,90,https://www.superherodb.com/pictures2/portraits/10/100/103.jpg
+158,Captain Marvel II,Frederick Christopher Freeman,DC Comics,-,75,81,27,90,34,56,https://www.superherodb.com/pictures2/portraits/10/100/279.jpg
+159,Captain Midnight,,Dark Horse Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/10443.jpg
+160,Captain Planet,,Marvel Comics,-,50,88,75,80,100,60,https://www.superherodb.com/pictures2/portraits/10/100/1285.jpg
+161,Captain Universe,,Marvel Comics,-,null,92,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/855.jpg
+162,Carnage,Cletus Kasady,Marvel Comics,-,63,63,70,84,88,90,https://www.superherodb.com/pictures2/portraits/10/100/187.jpg
+163,Cat,Shirlee Bryant,Marvel Comics,"Chicago, Illinois",null,90,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/904.jpg
+164,Cat II,,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/903.jpg
+165,Catwoman,Selina Kyle,DC Comics,Gotham City,69,11,33,28,27,85,https://www.superherodb.com/pictures2/portraits/10/100/659.jpg
+166,Cecilia Reyes,Dr. Cecilia Reyes,Marvel Comics,Place of birth unknown,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/43.jpg
+167,Century,,Marvel Comics,-,88,80,53,64,100,100,https://www.superherodb.com/pictures2/portraits/10/100/1511.jpg
+168,Cerebra,Shakti Haddad,Marvel Comics,-,null,57,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1512.jpg
+169,Chamber,Jonothon Evan Starsmore,Marvel Comics,United Kingdom,50,10,20,80,57,64,https://www.superherodb.com/pictures2/portraits/10/100/44.jpg
+170,Chameleon,Dmitri Anatoly Smerdyakov Kravinoff,DC Comics,Russia,88,10,12,28,28,28,https://www.superherodb.com/pictures2/portraits/10/100/660.jpg
+171,Changeling,Kevin Sidney,Marvel Comics,-,63,10,23,42,64,64,https://www.superherodb.com/pictures2/portraits/10/100/1107.jpg
+172,Cheetah,Priscilla Rich,DC Comics,-,38,8,42,20,32,70,https://www.superherodb.com/pictures2/portraits/10/100/661.jpg
+174,Cheetah III,Barbara Minerva,DC Comics,-,88,100,88,80,78,95,https://www.superherodb.com/pictures2/portraits/10/100/926.jpg
+175,Chromos,Bernard Embers,Team Epic TV,"London, England",null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1001.jpg
+176,Chuck Norris,Carlos Ray Norris,null,"Ryan, Oklahoma, United States",50,80,47,56,42,99,https://www.superherodb.com/pictures2/portraits/10/100/954.jpg
+177,Citizen Steel,Nathan Heywood,DC Comics,-,50,95,33,100,23,60,https://www.superherodb.com/pictures2/portraits/10/100/10661.jpg
+178,Claire Bennet,Claire Bennet,NBC - Heroes,-,38,9,12,100,90,28,https://www.superherodb.com/pictures2/portraits/10/100/941.jpg
+179,Clea,Clea,Marvel Comics,The Dark Dimension,null,39,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/45.jpg
+180,Cloak,Tyrone Johnson,Marvel Comics,"South Boston, Massachusetts",63,10,47,64,100,56,https://www.superherodb.com/pictures2/portraits/10/100/46.jpg
+181,Clock King,William Tockman,DC Comics,-,75,10,17,10,7,40,https://www.superherodb.com/pictures2/portraits/10/100/10396.jpg
+182,Cogliostro,Cain,Image Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1074.jpg
+183,Colin Wagner,,HarperCollins,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1153.jpg
+184,Colossal Boy,,DC Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1182.jpg
+185,Colossus,Piotr Nikolaievitch Rasputin,Marvel Comics,"Ust-Ordynski Collective, near Lake Baikal, Siberia, Russia",63,83,33,100,45,80,https://www.superherodb.com/pictures2/portraits/10/100/48.jpg
+186,Copycat,Vanessa Carlysle,Marvel Comics,-,56,10,21,25,54,60,https://www.superherodb.com/pictures2/portraits/10/100/10423.jpg
+187,Corsair,Christopher Summers,Marvel Comics,-,null,16,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/49.jpg
+188,Cottonmouth,Burchell Clemens,Marvel Comics,-,50,10,8,10,27,25,https://www.superherodb.com/pictures2/portraits/10/100/10452.jpg
+189,Crimson Crusader,Rory Destine,Marvel Comics,"Ravenscroft, England",null,58,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/303.jpg
+190,Crimson Dynamo,Anton Vanko,Marvel Comics,-,null,65,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1093.jpg
+191,Crystal,Crystallia Amaquelin,Marvel Comics,Attilan,63,16,12,14,61,56,https://www.superherodb.com/pictures2/portraits/10/100/305.jpg
+192,Curse,Phillip Krahn,Image Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1066.jpg
+193,Cy-Gor,,Image Comics,-,null,96,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1075.jpg
+194,Cyborg,Victor Stone,DC Comics,"New York City, New York",75,53,42,85,71,64,https://www.superherodb.com/pictures2/portraits/10/100/1204.jpg
+195,Cyborg Superman,Henry Henshaw,DC Comics,-,75,93,92,100,100,80,https://www.superherodb.com/pictures2/portraits/10/100/667.jpg
+196,Cyclops,Scott Summers,Marvel Comics,"Anchorage, Alaska",75,10,23,42,76,80,https://www.superherodb.com/pictures2/portraits/10/100/50.jpg
+197,Cypher,Douglas Aaron Ramsey,Marvel Comics,Place of birth unknown,null,44,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/168.jpg
+198,Dagger,Tandy Bowen,Marvel Comics,"Shaker Heights, Ohio",63,10,35,42,52,70,https://www.superherodb.com/pictures2/portraits/10/100/51.jpg
+199,Danny Cooper,,HarperCollins,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1152.jpg
+200,Daphne Powell,Daphne Powell,ABC Studios,-,38,10,8,10,56,10,https://www.superherodb.com/pictures2/portraits/10/100/1356.jpg
+201,Daredevil,Matt Murdock,Marvel Comics,"New York City, New York",75,13,25,35,61,100,https://www.superherodb.com/pictures2/portraits/10/100/52.jpg
+202,Darkhawk,Christopher Powell,Marvel Comics,"Queens, New York",50,32,33,70,74,64,https://www.superherodb.com/pictures2/portraits/10/100/53.jpg
+203,Darkman,Peyton Westlake,Universal Studios,-,75,14,23,85,12,28,https://www.superherodb.com/pictures2/portraits/10/100/1126.jpg
+204,Darkseid,Uxas,DC Comics,-,88,100,83,100,100,95,https://www.superherodb.com/pictures2/portraits/10/100/668.jpg
+205,Darkside,,null,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/840.jpg
+206,Darkstar,Laynia Petrovna,Marvel Comics,"Minks, USSR",38,8,35,42,79,64,https://www.superherodb.com/pictures2/portraits/10/100/169.jpg
+207,Darth Maul,,George Lucas,Dathomir,56,48,50,30,100,100,https://www.superherodb.com/pictures2/portraits/10/100/10464.jpg
+208,Darth Vader,Anakin Skywalker,George Lucas,Tatooine,69,48,33,35,100,100,https://www.superherodb.com/pictures2/portraits/10/100/10444.jpg
+209,Dash,Dashiell Robert Parr,Dark Horse Comics,-,25,12,92,60,20,30,https://www.superherodb.com/pictures2/portraits/10/100/824.jpg
+210,Data,Data,Star Trek,-,100,32,21,40,56,50,https://www.superherodb.com/pictures2/portraits/10/100/10577.jpg
+211,Dazzler,Alison Blaire,Marvel Comics,"Gardendale, Long Island, New York",63,10,33,60,100,55,https://www.superherodb.com/pictures2/portraits/10/100/1043.jpg
+212,Deadman,Boston Brand,DC Comics,-,50,10,33,100,100,42,https://www.superherodb.com/pictures2/portraits/10/100/1472.jpg
+213,Deadpool,Wade Wilson,Evil Deadpool,Canada,69,32,50,100,100,100,https://www.superherodb.com/pictures2/portraits/10/100/835.jpg
+214,Deadshot,Floyd Lawton,DC Comics,-,50,10,23,28,55,80,https://www.superherodb.com/pictures2/portraits/10/100/670.jpg
+215,Deathlok,Luther Manning,Marvel Comics,-,69,32,30,70,40,60,https://www.superherodb.com/pictures2/portraits/10/100/1304.jpg
+216,Deathstroke,Slade Joseph Wilson,DC Comics,-,75,30,35,100,47,90,https://www.superherodb.com/pictures2/portraits/10/100/672.jpg
+217,Demogoblin,,Marvel Comics,-,50,48,42,35,67,60,https://www.superherodb.com/pictures2/portraits/10/100/1515.jpg
+218,Destroyer,,Marvel Comics,Created in Asgard,50,95,58,98,85,70,https://www.superherodb.com/pictures2/portraits/10/100/1294.jpg
+219,Diamondback,Willis Stryker,Marvel Comics,-,44,16,23,28,45,60,https://www.superherodb.com/pictures2/portraits/10/100/1404.jpg
+220,DL Hawkins,Daniel Lawrence Hawkins,NBC - Heroes,-,50,12,12,56,48,56,https://www.superherodb.com/pictures2/portraits/10/100/943.jpg
+221,Doc Samson,Leonard Samson,Marvel Comics,"Tulsa, Oklahoma",75,80,33,80,36,70,https://www.superherodb.com/pictures2/portraits/10/100/54.jpg
+222,Doctor Doom,Victor von Doom,Marvel Comics,"Haasenstadt, Latveria",100,32,20,100,100,84,https://www.superherodb.com/pictures2/portraits/10/100/189.jpg
+223,Doctor Doom II,Kristoff Vernard,Marvel Comics,"Doomstadt, Latveria",null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1018.jpg
+224,Doctor Fate,Kent Nelson,DC Comics,-,81,16,25,80,100,50,https://www.superherodb.com/pictures2/portraits/10/100/676.jpg
+225,Doctor Octopus,Otto Octavius,Marvel Comics,"Schenectady, New York",94,48,33,40,53,65,https://www.superherodb.com/pictures2/portraits/10/100/622.jpg
+226,Doctor Strange,Stephen Strange,Marvel Comics,"Philadelphia, Pennsylvania",100,10,12,84,100,60,https://www.superherodb.com/pictures2/portraits/10/100/55.jpg
+227,Domino,Neena Thurman,Marvel Comics,"Project: Armageddon base, Everglades, Florida",63,10,27,28,49,74,https://www.superherodb.com/pictures2/portraits/10/100/902.jpg
+228,Donatello,,IDW Publishing,-,88,14,46,60,58,75,https://www.superherodb.com/pictures2/portraits/10/100/10330.jpg
+229,Donna Troy,Donna Hinckley Stacey Troy,DC Comics,-,null,89,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/806.jpg
+230,Doomsday,Doomsday,DC Comics,Krypton,75,100,67,100,100,90,https://www.superherodb.com/pictures2/portraits/10/100/679.jpg
+231,Doppelganger,,Marvel Comics,The Dimension of Manifestations,8,63,60,95,69,84,https://www.superherodb.com/pictures2/portraits/10/100/1320.jpg
+232,Dormammu,Dormammu,Marvel Comics,Faltine Dimension,88,95,83,100,100,80,https://www.superherodb.com/pictures2/portraits/10/100/1359.jpg
+233,Dr Manhattan,Jonathan Osterman,DC Comics,-,88,100,42,100,100,42,https://www.superherodb.com/pictures2/portraits/10/100/884.jpg
+234,Drax the Destroyer,Arthur Sampson Douglas,Marvel Comics,"Burbank, California",56,80,25,85,46,65,https://www.superherodb.com/pictures2/portraits/10/100/10016.jpg
+235,Ego,Ego,Marvel Comics,The Black Galaxy,88,80,83,99,71,28,https://www.superherodb.com/pictures2/portraits/10/100/6.jpg
+236,Elastigirl,Helen Parr,Dark Horse Comics,-,63,32,33,95,52,70,https://www.superherodb.com/pictures2/portraits/10/100/870.jpg
+237,Electro,Maxwell Dillon,Marvel Comics,-,69,10,50,56,67,64,https://www.superherodb.com/pictures2/portraits/10/100/7.jpg
+238,Elektra,Elektra Natchios,Marvel Comics,-,63,11,30,28,59,100,https://www.superherodb.com/pictures2/portraits/10/100/625.jpg
+239,Elle Bishop,,NBC - Heroes,-,50,8,12,42,63,42,https://www.superherodb.com/pictures2/portraits/10/100/1021.jpg
+240,Elongated Man,Ralph Dibny,DC Comics,-,75,10,33,90,44,40,https://www.superherodb.com/pictures2/portraits/10/100/1381.jpg
+241,Emma Frost,Emma Frost,Marvel Comics,"Boston, Massachusetts",75,63,35,90,100,42,https://www.superherodb.com/pictures2/portraits/10/100/325.jpg
+242,Enchantress,June Moone,DC Comics,-,63,14,25,60,100,40,https://www.superherodb.com/pictures2/portraits/10/100/687.jpg
+243,Energy,,HarperCollins,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1155.jpg
+244,ERG-1,,DC Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1187.jpg
+245,Ethan Hunt,Ethan Hunt,null,"Madison, Wisconsin, United States of America",75,11,29,30,26,95,https://www.superherodb.com/pictures2/portraits/10/100/10476.jpg
+246,Etrigan,Jason Blood,DC Comics,Hell,50,85,17,100,100,50,https://www.superherodb.com/pictures2/portraits/10/100/10429.jpg
+247,Evil Deadpool,Wade Wilson,Deadpool,-,69,32,50,100,100,100,https://www.superherodb.com/pictures2/portraits/10/100/10090.jpg
+248,Evilhawk,Dargin Bokk,Marvel Comics,-,50,32,33,70,85,64,https://www.superherodb.com/pictures2/portraits/10/100/1516.jpg
+249,Exodus,Bennet du Paris,Marvel Comics,-,63,81,28,28,100,70,https://www.superherodb.com/pictures2/portraits/10/100/1517.jpg
+250,Fabian Cortez,Fabian Cortez,Marvel Comics,Place of birth unknown,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/24.jpg
+251,Falcon,Sam Wilson,Marvel Comics,"New York, New York",38,13,50,28,22,64,https://www.superherodb.com/pictures2/portraits/10/100/56.jpg
+252,Fallen One II,,Marvel Comics,-,88,85,83,100,100,56,https://www.superherodb.com/pictures2/portraits/10/100/1051.jpg
+253,Faora,Faora Hu-Ul,DC Comics,-,88,95,75,100,98,90,https://www.superherodb.com/pictures2/portraits/10/100/1502.jpg
+254,Feral,Maria Callasantos,Marvel Comics,Place of birth unknown,38,28,45,28,27,70,https://www.superherodb.com/pictures2/portraits/10/100/57.jpg
+255,Fighting Spirit,Carol Carter,DC Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1167.jpg
+256,Fin Fang Foom,,Marvel Comics,-,50,81,23,100,75,70,https://www.superherodb.com/pictures2/portraits/10/100/1518.jpg
+257,Firebird,Bonita Juarez,Marvel Comics,"Buena Vista, New Mexico",38,8,40,14,100,42,https://www.superherodb.com/pictures2/portraits/10/100/58.jpg
+258,Firelord,Pyreus Kril,Marvel Comics,"Xander, planet in Tranta System, Andromeda Galaxy",38,63,75,90,52,28,https://www.superherodb.com/pictures2/portraits/10/100/59.jpg
+259,Firestar,Angelica Jones,Marvel Comics,Place of birth unknown,50,8,54,55,71,32,https://www.superherodb.com/pictures2/portraits/10/100/60.jpg
+260,Firestorm,Jason Rusch,DC Comics,-,50,53,58,56,100,42,https://www.superherodb.com/pictures2/portraits/10/100/689.jpg
+261,Firestorm,Ronald Raymond,DC Comics,-,38,80,58,80,100,40,https://www.superherodb.com/pictures2/portraits/10/100/10395.jpg
+262,Fixer,Paul Norbert Ebersol,Marvel Comics,"Dayton, Ohio",null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/9.jpg
+263,Flash,Jay Garrick,DC Comics,"Hibbardsville, Kansas",63,10,100,50,68,32,https://www.superherodb.com/pictures2/portraits/10/100/891.jpg
+264,Flash Gordon,Steven Gordon,null,-,null,69,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1345.jpg
+265,Flash II,Barry Allen,Black Racer,"Fallville, Iowa",88,48,100,60,100,60,https://www.superherodb.com/pictures2/portraits/10/100/892.jpg
+266,Flash III,Wally West,Speed Demon,"Blue Valley, Nebraska",63,10,100,60,100,32,https://www.superherodb.com/pictures2/portraits/10/100/690.jpg
+267,Flash IV,Bartholomew Allen II,Impulse,-,63,10,100,32,100,48,https://www.superherodb.com/pictures2/portraits/10/100/893.jpg
+268,Forge,,Marvel Comics,"Unrevealed, presumably in the American West",63,10,12,28,25,48,https://www.superherodb.com/pictures2/portraits/10/100/62.jpg
+269,Franklin Richards,Franklin  Richards,Marvel Comics,"New York, New York",63,80,50,60,100,50,https://www.superherodb.com/pictures2/portraits/10/100/63.jpg
+270,Franklin Storm,Dr. Franklin Storm,Marvel Comics,Place of birth unknown,38,10,1,1,0,10,https://www.superherodb.com/pictures2/portraits/10/100/170.jpg
+271,Frenzy,Joanna Cargill,Marvel Comics,-,63,53,35,100,38,52,https://www.superherodb.com/pictures2/portraits/10/100/1108.jpg
+272,Frigga,Frigga,Marvel Comics,Place of birth unknown,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/172.jpg
+273,Galactus,Galan,Marvel Comics,(Galan) Taa; (Galactus) the Cosmic Egg,100,100,83,100,100,50,https://www.superherodb.com/pictures2/portraits/10/100/862.jpg
+274,Gambit,Remy Etienne LeBeau,Marvel Comics,"New Orleans, Louisiana",63,10,23,28,55,84,https://www.superherodb.com/pictures2/portraits/10/100/64.jpg
+275,Gamora,Gamora Zen Whoberi Ben Titan,Marvel Comics,"Planet Zen Whoberi, Silican System, Milky Way",75,85,42,85,53,100,https://www.superherodb.com/pictures2/portraits/10/100/65.jpg
+276,Garbage Man,Richard Ethan Morse,DC Comics,-,null,82,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1467.jpg
+277,Gary Bell,Gary Bell,SyFy,-,63,5,8,10,54,10,https://www.superherodb.com/pictures2/portraits/10/100/1526.jpg
+278,General Zod,Dru-Zod,DC Comics,Krypton,94,100,96,100,100,95,https://www.superherodb.com/pictures2/portraits/10/100/837.jpg
+279,Genesis,Tyler Dayspring,Marvel Comics,-,null,68,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1055.jpg
+280,Ghost Rider,Johnny Blaze,Marvel Comics,"Waukegan, Illinois",50,55,25,100,100,60,https://www.superherodb.com/pictures2/portraits/10/100/67.jpg
+281,Ghost Rider II,Daniel Ketch,Marvel Comics,-,null,70,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/68.jpg
+282,Giant-Man,Hank Pym,Ant-Man,-,null,78,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/858.jpg
+283,Giant-Man II,,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/343.jpg
+284,Giganta,Doris Zuel,DC Comics,-,81,89,23,85,32,42,https://www.superherodb.com/pictures2/portraits/10/100/1376.jpg
+285,Gladiator,Kallark,Marvel Comics,-,50,100,100,100,77,70,https://www.superherodb.com/pictures2/portraits/10/100/1521.jpg
+286,Goblin Queen,Madelyne Jennifer Pryor,Marvel Comics,"Created in Sinister's Labs, Nebraska",75,10,23,28,65,56,https://www.superherodb.com/pictures2/portraits/10/100/1054.jpg
+287,Godzilla,Gojira,,-,44,100,54,100,100,20,https://www.superherodb.com/pictures2/portraits/10/100/10590.jpg
+288,Gog,,DC Comics,-,50,34,47,72,39,56,https://www.superherodb.com/pictures2/portraits/10/100/693.jpg
+289,Goku,Kakarot,Shueisha,-,56,100,75,90,100,100,https://www.superherodb.com/pictures2/portraits/10/100/1284.jpg
+290,Goliath,Erik Josten,Atlas,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/845.jpg
+291,Goliath,Clint Barton,Hawkeye,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/847.jpg
+292,Goliath,Hank Pym,Ant-Man,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/846.jpg
+293,Goliath IV,William Barrett Foster,Marvel Comics,"Watts, Los Angeles, California",null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/879.jpg
+294,Gorilla Grodd,Grodd,DC Comics,-,81,53,33,70,100,65,https://www.superherodb.com/pictures2/portraits/10/100/694.jpg
+295,Granny Goodness,,DC Comics,Apokolips,null,96,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg
+296,Gravity,Greg Willis,Marvel Comics,"Sheboygan, Wisconsin",50,32,33,40,69,30,https://www.superherodb.com/pictures2/portraits/10/100/74.jpg
+297,Greedo,Greedo,George Lucas,Rodia,38,10,13,15,31,40,https://www.superherodb.com/pictures2/portraits/10/100/10468.jpg
+298,Green Arrow,Oliver Queen,DC Comics,-,81,12,35,28,39,90,https://www.superherodb.com/pictures2/portraits/10/100/696.jpg
+299,Green Goblin,Norman Osborn,Marvel Comics,"Hartford, Connecticut",100,48,38,60,48,50,https://www.superherodb.com/pictures2/portraits/10/100/579.jpg
+300,Green Goblin II,Harold Osborn,Marvel Comics,New York City,75,55,37,50,44,26,https://www.superherodb.com/pictures2/portraits/10/100/25.jpg
+301,Green Goblin III,Barton Hamilton,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/351.jpg
+302,Green Goblin IV,Phillip Benjamin Urich,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/75.jpg
+303,Groot,Groot,Marvel Comics,-,75,85,33,70,100,64,https://www.superherodb.com/pictures2/portraits/10/100/10017.jpg
+304,Guardian,James Hudson,Marvel Comics,"London, Ontario, Canada",null,45,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/76.jpg
+305,Guy Gardner,Guy Gardner,DC Comics,"Baltimore, Maryland",38,90,53,64,100,64,https://www.superherodb.com/pictures2/portraits/10/100/700.jpg
+306,Hal Jordan,Hal Jordan,DC Comics,"Coast City, California",69,90,75,80,100,70,https://www.superherodb.com/pictures2/portraits/10/100/697.jpg
+307,Han Solo,Han Solo,George Lucas,Corellia,50,10,17,20,43,60,https://www.superherodb.com/pictures2/portraits/10/100/10456.jpg
+308,Hancock,John Hancock,Sony Pictures,-,63,90,67,100,100,50,https://www.superherodb.com/pictures2/portraits/10/100/1109.jpg
+309,Harley Quinn,Harley Quinn,DC Comics,-,88,12,33,65,55,80,https://www.superherodb.com/pictures2/portraits/10/100/701.jpg
+310,Harry Potter,Harry James Potter,J. K. Rowling,-,75,7,21,10,100,50,https://www.superherodb.com/pictures2/portraits/10/100/10878.jpg
+311,Havok,Alexander Summers,Marvel Comics,"Honolulu, Hawaii",63,10,25,60,71,45,https://www.superherodb.com/pictures2/portraits/10/100/77.jpg
+312,Hawk,Henry Hall,DC Comics,-,38,38,35,95,43,42,https://www.superherodb.com/pictures2/portraits/10/100/1382.jpg
+313,Hawkeye,Clint Barton,Goliath,"Waverly, Iowa",56,12,21,10,29,80,https://www.superherodb.com/pictures2/portraits/10/100/73.jpg
+314,Hawkeye II,Katherine Elizabeth Bishop,Marvel Comics,"New York City, New York",50,6,8,10,24,50,https://www.superherodb.com/pictures2/portraits/10/100/10043.jpg
+315,Hawkgirl,Kendra Saunders,DC Comics,-,50,28,53,99,96,72,https://www.superherodb.com/pictures2/portraits/10/100/703.jpg
+316,Hawkman,Carter Hall,DC Comics,-,null,66,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/839.jpg
+317,Hawkwoman,Shayera Hol,DC Comics,-,null,96,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/702.jpg
+318,Hawkwoman II,Sharon Parker,DC Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1129.jpg
+319,Hawkwoman III,Shayera Thal,DC Comics,-,null,92,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1130.jpg
+320,Heat Wave,Mick Rory,DC Comics,-,38,10,17,45,27,30,https://www.superherodb.com/pictures2/portraits/10/100/705.jpg
+321,Hela,,Marvel Comics,-,63,100,46,100,100,45,https://www.superherodb.com/pictures2/portraits/10/100/10835.jpg
+322,Hellboy,Anung Un Rama,Dark Horse Comics,-,63,53,21,95,73,75,https://www.superherodb.com/pictures2/portraits/10/100/813.jpg
+323,Hellcat,Patricia Walker,Marvel Comics,"Centerville, CA USA",63,11,33,45,46,70,https://www.superherodb.com/pictures2/portraits/10/100/79.jpg
+324,Hellstorm,Daimon Hellstrom,Marvel Comics,"Greentown, Massachusetts",null,56,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/80.jpg
+325,Hercules,Heracles,Marvel Comics,"Thebes, Greece",63,100,46,85,89,100,https://www.superherodb.com/pictures2/portraits/10/100/78.jpg
+326,Hiro Nakamura,Hiro Nakamura,NBC - Heroes,"Tokyo, Japan",null,15,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/947.jpg
+327,Hit-Girl,Mindy McCready,Icon Comics,-,56,7,29,20,27,65,https://www.superherodb.com/pictures2/portraits/10/100/1336.jpg
+328,Hobgoblin,Roderick Kingsley,Marvel Comics,-,null,53,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/896.jpg
+329,Hollow,Monet St. Croix,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/931.jpg
+330,Hope Summers,Hope Summers,Marvel Comics,-,63,10,12,32,93,75,https://www.superherodb.com/pictures2/portraits/10/100/1351.jpg
+331,Howard the Duck,Howard (Last name unrevealed),Marvel Comics,"New Stork, New Stork, Duckworld",null,44,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/82.jpg
+332,Hulk,Bruce Banner,Marvel Comics,"Dayton, Ohio",88,100,63,100,98,85,https://www.superherodb.com/pictures2/portraits/10/100/83.jpg
+333,Human Torch,Johnny Storm,Marvel Comics,"Glenville, Long Island, New York",63,11,63,70,87,42,https://www.superherodb.com/pictures2/portraits/10/100/362.jpg
+334,Huntress,Helena Rosa Bertinelli,Batgirl III,-,69,10,23,28,34,95,https://www.superherodb.com/pictures2/portraits/10/100/707.jpg
+335,Husk,Paige Elisabeth Guthrie,Marvel Comics,"Cumberland, Kentucky",63,63,35,78,48,64,https://www.superherodb.com/pictures2/portraits/10/100/84.jpg
+336,Hybrid,Scott Washington,Marvel Comics,"Bedford-Stuyvesant, Brooklyn, New York City",63,63,58,75,100,80,https://www.superherodb.com/pictures2/portraits/10/100/10493.jpg
+337,Hydro-Man,Morris Bench,Marvel Comics,"Bronx, New York",38,13,25,80,66,50,https://www.superherodb.com/pictures2/portraits/10/100/1451.jpg
+338,Hyperion,Mark Milton,Marvel Comics,-,88,100,100,95,87,80,https://www.superherodb.com/pictures2/portraits/10/100/1286.jpg
+339,Iceman,Bobby Drake,Marvel Comics,"Fort Washington, Long Island, New York",63,32,53,100,100,64,https://www.superherodb.com/pictures2/portraits/10/100/816.jpg
+340,Impulse,Bartholomew Allen II,Flash IV,-,50,10,100,60,74,60,https://www.superherodb.com/pictures2/portraits/10/100/895.jpg
+341,Indiana Jones,Indiana Jones,George Lucas,"Princeton, New Jersey",69,10,17,30,19,30,https://www.superherodb.com/pictures2/portraits/10/100/10560.jpg
+342,Indigo,Iroque,DC Comics,-,75,63,50,50,100,50,https://www.superherodb.com/pictures2/portraits/10/100/708.jpg
+343,Ink,Eric Gitter,Marvel Comics,-,38,28,17,40,73,50,https://www.superherodb.com/pictures2/portraits/10/100/10337.jpg
+344,Invisible Woman,Susan Storm Richards,Marvel Comics,"Glenville, Long Island, New York",88,10,27,85,93,56,https://www.superherodb.com/pictures2/portraits/10/100/620.jpg
+345,Iron Fist,Danny Rand,Marvel Comics,-,75,55,33,50,95,100,https://www.superherodb.com/pictures2/portraits/10/100/1120.jpg
+346,Iron Man,Tony Stark,Marvel Comics,"Long Island, New York",100,85,58,85,100,64,https://www.superherodb.com/pictures2/portraits/10/100/85.jpg
+347,Iron Monger,Obadiah Stane,Marvel Comics,-,88,63,25,90,57,56,https://www.superherodb.com/pictures2/portraits/10/100/886.jpg
+348,Isis,Adrianna Tomaz,DC Comics,-,75,48,75,46,50,56,https://www.superherodb.com/pictures2/portraits/10/100/1164.jpg
+349,Jack Bauer,Kiefer Sutherland,null,"Enola, Pennsylvania",null,43,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1203.jpg
+350,Jack of Hearts,Jonathan Hart,Marvel Comics,"New Haven, Connecticut",63,55,100,30,77,30,https://www.superherodb.com/pictures2/portraits/10/100/86.jpg
+351,Jack-Jack,Jack-Jack Parr,Dark Horse Comics,-,6,34,67,80,100,6,https://www.superherodb.com/pictures2/portraits/10/100/871.jpg
+352,James Bond,James Bond,Titan Books,-,88,13,17,35,25,90,https://www.superherodb.com/pictures2/portraits/10/100/10404.jpg
+353,James T. Kirk,James T. Kirk,Star Trek,"Riverside, Iowa, Earth",69,11,17,30,30,75,https://www.superherodb.com/pictures2/portraits/10/100/10565.jpg
+354,Jar Jar Binks,Jar Jar Binks,George Lucas,Naboo,10,6,33,10,21,15,https://www.superherodb.com/pictures2/portraits/10/100/10563.jpg
+355,Jason Bourne,Jason Bourne,null,-,88,12,29,30,26,100,https://www.superherodb.com/pictures2/portraits/10/100/10477.jpg
+356,Jean Grey,Jean Grey,Phoenix,-,94,80,21,20,92,70,https://www.superherodb.com/pictures2/portraits/10/100/814.jpg
+357,Jean-Luc Picard,Jean-Luc Picard,Star Trek,"La Barre, France, Earth",75,10,17,30,26,65,https://www.superherodb.com/pictures2/portraits/10/100/10567.jpg
+358,Jennifer Kale,Jennifer Kale,Marvel Comics,"Citrusville, Florida",75,10,35,42,74,72,https://www.superherodb.com/pictures2/portraits/10/100/1321.jpg
+359,Jesse Quick,Jesse Chambers,Liberty Belle II,-,null,42,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/10544.jpg
+360,Jessica Cruz,Jessica Cruz,DC Comics,-,56,90,46,50,100,55,https://www.superherodb.com/pictures2/portraits/10/100/10650.jpg
+361,Jessica Jones,Jessica Campbell Jones Cage,Power Woman,"Forrest Hills, New York City",56,44,50,70,18,55,https://www.superherodb.com/pictures2/portraits/10/100/10403.jpg
+362,Jessica Sanders,,NBC - Heroes,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1029.jpg
+363,Jigsaw,Billy Russo,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/887.jpg
+364,Jim Powell,Jim Powell,ABC Studios,-,38,38,23,80,23,20,https://www.superherodb.com/pictures2/portraits/10/100/1354.jpg
+365,JJ Powell,JJ Powell,ABC Studios,-,88,10,8,10,14,10,https://www.superherodb.com/pictures2/portraits/10/100/1357.jpg
+366,Johann Krauss,Johann Krauss,Dark Horse Comics,-,null,30,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1121.jpg
+367,John Constantine,John Constantine,DC Comics,-,63,10,8,40,54,65,https://www.superherodb.com/pictures2/portraits/10/100/718.jpg
+369,John Wraith,John Wraith,Marvel Comics,-,75,12,35,28,87,80,https://www.superherodb.com/pictures2/portraits/10/100/1314.jpg
+370,Joker,Jack Napier,DC Comics,-,100,10,12,60,43,70,https://www.superherodb.com/pictures2/portraits/10/100/719.jpg
+371,Jolt,Helen Takahama,Marvel Comics,"Ojai, California",63,12,27,32,31,42,https://www.superherodb.com/pictures2/portraits/10/100/1323.jpg
+372,Jubilee,Jubilation Lee,Marvel Comics,"Beverly Hills, California",56,8,22,20,66,90,https://www.superherodb.com/pictures2/portraits/10/100/87.jpg
+373,Judge Dredd,Joseph Dredd,Rebellion,Mega City One,75,18,38,50,52,95,https://www.superherodb.com/pictures2/portraits/10/100/1163.jpg
+374,Juggernaut,Cain Marko,Marvel Comics,"Berkeley, California",44,100,42,100,85,70,https://www.superherodb.com/pictures2/portraits/10/100/826.jpg
+375,Junkpile,,Marvel Comics,-,50,38,17,90,81,30,https://www.superherodb.com/pictures2/portraits/10/100/10002.jpg
+376,Justice,Vance Astrovik,Marvel Comics,-,50,10,33,70,55,30,https://www.superherodb.com/pictures2/portraits/10/100/88.jpg
+377,Jyn Erso,Jyn Erso,George Lucas,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/10562.jpg
+378,K-2SO,,George Lucas,Galactic Empire,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/10643.jpg
+379,Kang,Nathaniel Richards,Iron Lad,"Other Earth, 31st century",100,48,58,70,100,70,https://www.superherodb.com/pictures2/portraits/10/100/1053.jpg
+380,Kathryn Janeway,Kathryn Janeway,Star Trek,"Bloomington, Indiana, Earth",75,8,21,25,21,50,https://www.superherodb.com/pictures2/portraits/10/100/10581.jpg
+381,Katniss Everdeen,Katniss Everdeen,,-,56,8,21,25,24,55,https://www.superherodb.com/pictures2/portraits/10/100/10484.jpg
+382,Kevin 11,Kevin Ethan Levin,DC Comics,-,25,7,12,14,100,40,https://www.superherodb.com/pictures2/portraits/10/100/1408.jpg
+383,Kick-Ass,Dave Lizewski,Icon Comics,New York City,38,10,23,35,22,56,https://www.superherodb.com/pictures2/portraits/10/100/1158.jpg
+384,Kid Flash,Wallace Rudolph West,DC Comics,"Blue Valley, Nebraska",25,4,92,42,20,30,https://www.superherodb.com/pictures2/portraits/10/100/722.jpg
+385,Kid Flash II,Bartholomew Allen II,Flash IV,-,null,47,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/894.jpg
+386,Killer Croc,Waylon Jones,DC Comics,-,19,53,35,90,53,60,https://www.superherodb.com/pictures2/portraits/10/100/723.jpg
+387,Killer Frost,Caitlin Snow,DC Comics,-,88,10,13,35,59,30,https://www.superherodb.com/pictures2/portraits/10/100/10508.jpg
+388,Kilowog,,DC Comics,Bolovax Vik,81,90,53,42,100,80,https://www.superherodb.com/pictures2/portraits/10/100/1428.jpg
+389,King Kong,King Kong,,Skull Island,56,100,71,75,47,75,https://www.superherodb.com/pictures2/portraits/10/100/10591.jpg
+390,King Shark,Nanaue,DC Comics,-,50,88,50,90,86,40,https://www.superherodb.com/pictures2/portraits/10/100/10512.jpg
+391,Kingpin,Wilson Grant Fisk,Marvel Comics,New York City area,75,18,25,40,13,70,https://www.superherodb.com/pictures2/portraits/10/100/623.jpg
+392,Klaw,Ulysses Klaw,Marvel Comics,"Vlaardingen, Netherlands",63,38,33,100,62,60,https://www.superherodb.com/pictures2/portraits/10/100/1539.jpg
+393,Kool-Aid Man,,null,-,25,18,8,10,9,14,https://www.superherodb.com/pictures2/portraits/10/100/1343.jpg
+394,Kraven II,Alyosha Kravinoff,Marvel Comics,-,50,34,23,28,43,85,https://www.superherodb.com/pictures2/portraits/10/100/1034.jpg
+395,Kraven the Hunter,Sergei Kravinoff,Marvel Comics,"Volgograd (formerly Stalingrad), Russia",63,32,35,42,25,85,https://www.superherodb.com/pictures2/portraits/10/100/1033.jpg
+396,Krypto,Krypto the Superdog,DC Comics,-,9,80,100,90,82,40,https://www.superherodb.com/pictures2/portraits/10/100/725.jpg
+397,Kyle Rayner,Kyle Rayner,DC Comics,"North Hollywood, Los Angeles, California",69,90,50,60,100,60,https://www.superherodb.com/pictures2/portraits/10/100/1409.jpg
+398,Kylo Ren,Ben Solo,George Lucas,-,56,44,33,30,100,70,https://www.superherodb.com/pictures2/portraits/10/100/10559.jpg
+399,Lady Bullseye,,Marvel Comics,-,null,63,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1170.jpg
+400,Lady Deathstrike,Yuriko Oyama,Marvel Comics,"Osaka, Japan",63,28,42,85,48,90,https://www.superherodb.com/pictures2/portraits/10/100/810.jpg
+401,Leader,Samuel Sterns,Marvel Comics,"Boise, Idaho",100,10,12,14,59,42,https://www.superherodb.com/pictures2/portraits/10/100/885.jpg
+402,Leech,,Marvel Comics,-,25,5,12,14,62,14,https://www.superherodb.com/pictures2/portraits/10/100/834.jpg
+403,Legion,David Haller,Marvel Comics,Israel,50,100,42,30,100,75,https://www.superherodb.com/pictures2/portraits/10/100/10651.jpg
+404,Leonardo,Leonardo,IDW Publishing,-,75,16,50,65,59,80,https://www.superherodb.com/pictures2/portraits/10/100/10327.jpg
+405,Lex Luthor,Lex Luthor,DC Comics,-,100,53,25,65,68,70,https://www.superherodb.com/pictures2/portraits/10/100/727.jpg
+406,Light Lass,Ayla Ranzz,DC Comics,-,38,10,35,28,67,42,https://www.superherodb.com/pictures2/portraits/10/100/1178.jpg
+407,Lightning Lad,Garth Ranzz,DC Comics,-,38,10,23,28,60,42,https://www.superherodb.com/pictures2/portraits/10/100/1177.jpg
+408,Lightning Lord,Mekt Ranzz,DC Comics,-,44,10,23,42,66,42,https://www.superherodb.com/pictures2/portraits/10/100/1179.jpg
+409,Living Brain,,Marvel Comics,-,75,53,35,56,31,28,https://www.superherodb.com/pictures2/portraits/10/100/1037.jpg
+410,Living Tribunal,,Marvel Comics,-,100,100,100,100,100,30,https://www.superherodb.com/pictures2/portraits/10/100/10523.jpg
+411,Liz Sherman,Elizabeth Anne Sherman,Dark Horse Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/868.jpg
+412,Lizard,Curtis Connors,Marvel Comics,"Coral Gables, Florida",50,51,27,70,63,56,https://www.superherodb.com/pictures2/portraits/10/100/11.jpg
+413,Lobo,Lobo,DC Comics,-,94,100,54,100,100,85,https://www.superherodb.com/pictures2/portraits/10/100/1127.jpg
+414,Loki,Loki Laufeyson,Marvel Comics,"Jotunheim, Asgard",88,63,46,85,100,60,https://www.superherodb.com/pictures2/portraits/10/100/928.jpg
+415,Longshot,,Marvel Comics,-,50,10,27,10,71,70,https://www.superherodb.com/pictures2/portraits/10/100/1531.jpg
+416,Luke Cage,Luke Cage,Power Man,"Harlem, New York City",50,63,29,95,44,70,https://www.superherodb.com/pictures2/portraits/10/100/269.jpg
+417,Luke Campbell,Luke Campbell,NBC - Heroes,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1311.jpg
+418,Luke Skywalker,Luke Skywalker,George Lucas,Tatooine,69,38,42,25,100,100,https://www.superherodb.com/pictures2/portraits/10/100/10447.jpg
+419,Luna,Luna Maximoff,Marvel Comics,"Attilan, Blue Area of the Moon",38,6,83,14,53,14,https://www.superherodb.com/pictures2/portraits/10/100/933.jpg
+420,Lyja,Lyja,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1017.jpg
+421,Mach-IV,Abner Jenkins,Marvel Comics,"Baltimore, Maryland",75,36,60,84,60,56,https://www.superherodb.com/pictures2/portraits/10/100/370.jpg
+422,Machine Man,"X-51, Aaron Stack",Marvel Comics,"Central City, California",63,32,35,84,51,64,https://www.superherodb.com/pictures2/portraits/10/100/90.jpg
+423,Magneto,Erik Magnus Lensherr,Marvel Comics,"Unrevealed, probably somewhere in Northern Europe",88,80,27,84,91,80,https://www.superherodb.com/pictures2/portraits/10/100/12.jpg
+424,Magog,David Reid,DC Comics,-,50,48,23,64,66,72,https://www.superherodb.com/pictures2/portraits/10/100/1324.jpg
+425,Magus,,Marvel Comics,Kvch (Technarchy?s home planet),88,100,70,99,100,74,https://www.superherodb.com/pictures2/portraits/10/100/1297.jpg
+426,Man of Miracles,,Image Comics,-,100,100,100,100,100,100,https://www.superherodb.com/pictures2/portraits/10/100/10889.jpg
+427,Man-Bat,Robert Kirkland Langstrom,DC Comics,"Chicago, Illinois",38,18,50,70,33,30,https://www.superherodb.com/pictures2/portraits/10/100/731.jpg
+428,Man-Thing,Dr. Theodore Sallis,Marvel Comics,-,50,32,8,100,100,40,https://www.superherodb.com/pictures2/portraits/10/100/382.jpg
+429,Man-Wolf,John Jameson,Marvel Comics,"New York, New York",63,44,35,42,45,70,https://www.superherodb.com/pictures2/portraits/10/100/91.jpg
+430,Mandarin,Khan,Marvel Comics,China,100,28,23,28,100,95,https://www.superherodb.com/pictures2/portraits/10/100/1175.jpg
+431,Mantis,,Marvel Comics,Vietnam,63,8,33,80,100,80,https://www.superherodb.com/pictures2/portraits/10/100/384.jpg
+432,Martian Manhunter,J'onn J'onzz,DC Comics,-,100,95,92,100,100,85,https://www.superherodb.com/pictures2/portraits/10/100/733.jpg
+433,Marvel Girl,Rachel Anne Summers,Marvel Comics,-,63,85,47,42,100,80,https://www.superherodb.com/pictures2/portraits/10/100/94.jpg
+434,Master Brood,Currently Colin Wood,Team Epic TV,Perhaps England,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/958.jpg
+435,Master Chief,John-117,Microsoft,"Elysium City, Eridanus II",75,73,35,80,69,100,https://www.superherodb.com/pictures2/portraits/10/100/1110.jpg
+436,Match,Kent Connor,DC Comics,-,75,95,83,85,100,70,https://www.superherodb.com/pictures2/portraits/10/100/1459.jpg
+437,Matt Parkman,Matthew Parkman,NBC - Heroes,-,63,10,12,14,59,56,https://www.superherodb.com/pictures2/portraits/10/100/948.jpg
+438,Maverick,Christopher Bradley,Marvel Comics,-,63,10,12,42,60,85,https://www.superherodb.com/pictures2/portraits/10/100/257.jpg
+439,Maxima,,DC Comics,Almerac,75,90,35,56,81,75,https://www.superherodb.com/pictures2/portraits/10/100/1168.jpg
+440,Maya Herrera,Maya Herrera,NBC - Heroes,Dominican Republic,50,10,12,14,60,14,https://www.superherodb.com/pictures2/portraits/10/100/944.jpg
+441,Medusa,Medusalith Amaquelin Boltagon,Marvel Comics,"Island of Attilan, Atlantic Ocean",75,34,35,70,37,56,https://www.superherodb.com/pictures2/portraits/10/100/96.jpg
+442,Meltdown,Tabitha Smith,Boom-Boom,"Roanoke, Virginia",38,10,12,42,62,64,https://www.superherodb.com/pictures2/portraits/10/100/258.jpg
+443,Mephisto,,Marvel Comics,Hell,88,85,35,95,100,42,https://www.superherodb.com/pictures2/portraits/10/100/1322.jpg
+444,Mera,Mera,DC Comics,-,56,62,79,60,92,80,https://www.superherodb.com/pictures2/portraits/10/100/1388.jpg
+445,Metallo,John Corben,DC Comics,-,75,53,23,95,86,64,https://www.superherodb.com/pictures2/portraits/10/100/737.jpg
+446,Metamorpho,Rex Mason,DC Comics,-,null,82,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/738.jpg
+447,Meteorite,,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1333.jpg
+448,Metron,Metron,DC Comics,-,88,10,47,56,100,28,https://www.superherodb.com/pictures2/portraits/10/100/841.jpg
+449,Micah Sanders,Micah Sanders,NBC - Heroes,-,63,8,12,14,57,14,https://www.superherodb.com/pictures2/portraits/10/100/951.jpg
+450,Michelangelo,,IDW Publishing,-,63,14,50,65,59,75,https://www.superherodb.com/pictures2/portraits/10/100/10329.jpg
+451,Micro Lad,Gim Allon,DC Comics,-,38,28,27,28,44,32,https://www.superherodb.com/pictures2/portraits/10/100/1181.jpg
+452,Mimic,Calvin Montgomery Rankin,Marvel Comics,"Passiac, New Jersey",63,67,47,56,79,42,https://www.superherodb.com/pictures2/portraits/10/100/97.jpg
+453,Minna Murray,Wilhelmina Harker,Wildstorm,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/881.jpg
+454,Misfit,Charlotte Gage-Radcliffe,Batgirl V,-,63,32,23,80,91,42,https://www.superherodb.com/pictures2/portraits/10/100/1114.jpg
+455,Miss Martian,M'gann M'orzz,DC Comics,Mars,63,85,58,100,100,45,https://www.superherodb.com/pictures2/portraits/10/100/1394.jpg
+456,Mister Fantastic,Reed Richards,Marvel Comics,"Central City, California",100,10,18,70,33,64,https://www.superherodb.com/pictures2/portraits/10/100/408.jpg
+457,Mister Freeze,Victor Fries,DC Comics,-,75,32,12,70,37,28,https://www.superherodb.com/pictures2/portraits/10/100/742.jpg
+458,Mister Knife,J'son,Marvel Comics,"Spartax, Spartoi Empire, near the Shi'ar Galaxy",75,10,17,30,13,65,https://www.superherodb.com/pictures2/portraits/10/100/10633.jpg
+459,Mister Mxyzptlk,Mr. Mxyzptlk,DC Comics,-,100,85,100,100,100,50,https://www.superherodb.com/pictures2/portraits/10/100/744.jpg
+460,Mister Sinister,Nathaniel Essex,Marvel Comics,"London, England",100,48,46,90,100,50,https://www.superherodb.com/pictures2/portraits/10/100/856.jpg
+461,Mister Zsasz,Victor Zsasz,DC Comics,-,88,22,33,28,18,85,https://www.superherodb.com/pictures2/portraits/10/100/1486.jpg
+462,Mockingbird,Barbara Morse,Marvel Comics,"San Diego, California",75,31,38,20,48,95,https://www.superherodb.com/pictures2/portraits/10/100/1328.jpg
+463,MODOK,George Tarleton,Marvel Comics,-,100,18,25,25,79,15,https://www.superherodb.com/pictures2/portraits/10/100/10438.jpg
+464,Mogo,Mogo,DC Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1432.jpg
+465,Mohinder Suresh,Mohinder Suresh,NBC - Heroes,India,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1313.jpg
+466,Moloch,Edgar William Jacobi,DC Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1061.jpg
+467,Molten Man,Mark Raxton,Marvel Comics,-,50,73,23,84,53,56,https://www.superherodb.com/pictures2/portraits/10/100/411.jpg
+468,Monarch,Nathaniel Christopher Adam,DC Comics,-,null,100,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1006.jpg
+469,Monica Dawson,Monica Dawson,NBC - Heroes,-,50,10,35,14,48,90,https://www.superherodb.com/pictures2/portraits/10/100/942.jpg
+470,Moon Knight,Marc Spector,Marvel Comics,"Chicago, Illinois",50,36,23,42,28,75,https://www.superherodb.com/pictures2/portraits/10/100/415.jpg
+471,Moonstone,Karla Sofen,Marvel Comics,"Van Nuys, California",56,67,47,52,74,80,https://www.superherodb.com/pictures2/portraits/10/100/100.jpg
+472,Morlun,Morlun,Marvel Comics,-,63,60,35,42,74,56,https://www.superherodb.com/pictures2/portraits/10/100/1171.jpg
+473,Morph,Kevin Sydney,Marvel Comics,"Pittsburgh, Pennsylvania",null,40,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/102.jpg
+474,Moses Magnum,Moses Magnum,Marvel Comics,-,75,28,12,42,55,56,https://www.superherodb.com/pictures2/portraits/10/100/1020.jpg
+475,Mr Immortal,Craig Hollis,Marvel Comics,-,50,10,8,100,69,30,https://www.superherodb.com/pictures2/portraits/10/100/10794.jpg
+476,Mr Incredible,Robert Parr,Dark Horse Comics,-,50,83,33,95,29,40,https://www.superherodb.com/pictures2/portraits/10/100/869.jpg
+477,Ms Marvel II,Sharon Ventura,She-Thing,"Pullman, Washington",38,63,23,84,11,56,https://www.superherodb.com/pictures2/portraits/10/100/897.jpg
+478,Multiple Man,James Arthur,Marvel Comics,"Los Alamos, New Mexico",63,11,23,70,28,62,https://www.superherodb.com/pictures2/portraits/10/100/104.jpg
+479,Mysterio,Quentin Beck,Marvel Comics,"New York, New York",81,10,17,40,82,70,https://www.superherodb.com/pictures2/portraits/10/100/1039.jpg
+480,Mystique,Raven Darkholme,Marvel Comics,-,75,12,23,64,64,74,https://www.superherodb.com/pictures2/portraits/10/100/817.jpg
+481,Namor,Namor McKenzie,Marvel Comics,Atlantis,69,95,58,70,73,85,https://www.superherodb.com/pictures2/portraits/10/100/137.jpg
+482,Namor,,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/105.jpg
+483,Namora,Aquaria Nautica Neptunia,Marvel Comics,Unnamed Atlantean outpost,50,85,42,42,48,64,https://www.superherodb.com/pictures2/portraits/10/100/1364.jpg
+484,Namorita,Namorita Prentiss,Marvel Comics,Atlantis Outskirts,50,72,47,70,37,70,https://www.superherodb.com/pictures2/portraits/10/100/106.jpg
+485,Naruto Uzumaki,,Shueisha,-,50,80,32,80,100,100,https://www.superherodb.com/pictures2/portraits/10/100/1540.jpg
+486,Nathan Petrelli,Nathan Petrelli,NBC - Heroes,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/949.jpg
+487,Nebula,,Marvel Comics,-,63,52,13,50,42,60,https://www.superherodb.com/pictures2/portraits/10/100/10632.jpg
+488,Negasonic Teenage Warhead,Ellie Phimister,Marvel Comics,-,50,7,8,10,45,35,https://www.superherodb.com/pictures2/portraits/10/100/10556.jpg
+489,Nick Fury,Nicholas Joseph Fury,Marvel Comics,New York City,75,11,23,42,25,100,https://www.superherodb.com/pictures2/portraits/10/100/326.jpg
+490,Nightcrawler,Kurt Wagner,Marvel Comics,Somewhere in the Bavarian Alps,50,10,47,14,76,80,https://www.superherodb.com/pictures2/portraits/10/100/107.jpg
+491,Nightwing,Dick Grayson,Batman II,Gotham City,88,11,33,28,36,100,https://www.superherodb.com/pictures2/portraits/10/100/851.jpg
+492,Niki Sanders,Nicole Sanders,NBC - Heroes,-,63,52,35,28,37,56,https://www.superherodb.com/pictures2/portraits/10/100/952.jpg
+493,Nina Theroux,,SyFy,-,63,5,8,10,68,20,https://www.superherodb.com/pictures2/portraits/10/100/1529.jpg
+494,Nite Owl II,Daniel Dreiberg,DC Comics,-,null,45,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1059.jpg
+495,Northstar,Jean-Paul Beaubier,Marvel Comics,"Montreal, Qu?bec, Canada",50,18,83,56,65,70,https://www.superherodb.com/pictures2/portraits/10/100/1287.jpg
+496,Nova,Richard Rider,Marvel Comics,"Queens, NY",100,85,75,100,100,80,https://www.superherodb.com/pictures2/portraits/10/100/109.jpg
+497,Nova,Frankie Raye,Marvel Comics,-,63,60,100,100,100,35,https://www.superherodb.com/pictures2/portraits/10/100/10313.jpg
+498,Odin,Odin Borson,Marvel Comics,Asgard,100,83,67,95,100,90,https://www.superherodb.com/pictures2/portraits/10/100/10388.jpg
+499,Offspring,Luke O'Brian,DC Comics,-,50,10,35,99,100,56,https://www.superherodb.com/pictures2/portraits/10/100/1298.jpg
+500,Omega Red,Arkady Gregorivich,Marvel Comics,-,null,61,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/208.jpg
+501,Omniscient,Omniscient is the closest English word that compares to his alien tongue.,Team Epic TV,Another Unknown World,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1003.jpg
+502,One Punch Man,Saitama,Shueisha,-,38,100,83,95,55,50,https://www.superherodb.com/pictures2/portraits/10/100/10522.jpg
+503,One-Above-All,,Marvel Comics,-,100,100,100,100,100,100,https://www.superherodb.com/pictures2/portraits/10/100/10374.jpg
+504,Onslaught,Onslaught,Marvel Comics,-,88,100,33,100,100,55,https://www.superherodb.com/pictures2/portraits/10/100/13.jpg
+505,Oracle,Barbara Gordon,Batgirl,-,75,11,23,28,19,76,https://www.superherodb.com/pictures2/portraits/10/100/749.jpg
+506,Osiris,Amon Tomaz,DC Comics,-,75,85,60,95,65,42,https://www.superherodb.com/pictures2/portraits/10/100/1165.jpg
+507,Overtkill,Nicholas Rocca,Image Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/866.jpg
+508,Ozymandias,Adrian Veidt,DC Comics,-,100,18,33,20,49,95,https://www.superherodb.com/pictures2/portraits/10/100/1063.jpg
+509,Parademon,,DC Comics,Apokalips,9,28,17,50,53,25,https://www.superherodb.com/pictures2/portraits/10/100/10806.jpg
+510,Paul Blart,Paul Blart,Sony Pictures,-,8,11,21,50,7,5,https://www.superherodb.com/pictures2/portraits/10/100/10479.jpg
+511,Penance,,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/929.jpg
+512,Penance I,,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/930.jpg
+513,Penance II,Robert Baldwin,Speedball,"Springdale, Connecticut",null,20,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/900.jpg
+514,Penguin,Oswald Chesterfield Cobblepot,DC Comics,-,75,10,12,28,30,45,https://www.superherodb.com/pictures2/portraits/10/100/753.jpg
+515,Phantom,Christopher Walker,DC Comics,-,null,48,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/889.jpg
+516,Phantom Girl,Tinya Wazzo,DC Comics,-,38,10,23,28,53,42,https://www.superherodb.com/pictures2/portraits/10/100/1184.jpg
+517,Phoenix,Jean Grey,Jean Grey,-,100,100,83,100,100,80,https://www.superherodb.com/pictures2/portraits/10/100/828.jpg
+518,Plantman,Samuel Smithers,Marvel Comics,"London, England",63,60,25,55,61,25,https://www.superherodb.com/pictures2/portraits/10/100/10487.jpg
+519,Plastic Lad,Luke O'Brian,DC Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1299.jpg
+520,Plastic Man,Patrick O'Brian,DC Comics,-,50,63,23,100,100,56,https://www.superherodb.com/pictures2/portraits/10/100/756.jpg
+521,Plastique,Bette Sans Souci,DC Comics,-,50,10,23,28,60,42,https://www.superherodb.com/pictures2/portraits/10/100/1176.jpg
+522,Poison Ivy,Pamela Isley,DC Comics,"Seattle, Washington",81,14,21,40,100,40,https://www.superherodb.com/pictures2/portraits/10/100/757.jpg
+523,Polaris,Lorna Dane,Marvel Comics,Presumably northern California - not confirmed,63,73,42,50,100,45,https://www.superherodb.com/pictures2/portraits/10/100/1046.jpg
+524,Power Girl,Kara Zor-L,DC Comics,-,94,100,100,100,100,75,https://www.superherodb.com/pictures2/portraits/10/100/758.jpg
+525,Power Man,Luke Cage,Luke Cage,-,null,82,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1016.jpg
+526,Predator,Yautja,Dark Horse Comics,Yautja Prime,63,30,25,85,100,90,https://www.superherodb.com/pictures2/portraits/10/100/10448.jpg
+527,Professor X,Charles Francis Xavier,Marvel Comics,"New York, New York",100,8,12,14,100,32,https://www.superherodb.com/pictures2/portraits/10/100/113.jpg
+528,Professor Zoom,Eobard Thawne,DC Comics,-,94,10,100,20,83,20,https://www.superherodb.com/pictures2/portraits/10/100/766.jpg
+529,Psylocke,Elizabeth Braddock,Marvel Comics,"Braddock Manor, England",63,33,25,40,100,90,https://www.superherodb.com/pictures2/portraits/10/100/114.jpg
+530,Punisher,Frank Castle,Marvel Comics,"Queens, New York",69,16,21,45,42,100,https://www.superherodb.com/pictures2/portraits/10/100/112.jpg
+531,Purple Man,Zebediah Killgrave,Marvel Comics,-,56,10,8,30,92,10,https://www.superherodb.com/pictures2/portraits/10/100/10451.jpg
+532,Pyro,St. John Allerdyce,Marvel Comics,"Sydney, Australia",38,10,12,14,54,28,https://www.superherodb.com/pictures2/portraits/10/100/853.jpg
+533,Q,Q,Star Trek,-,100,12,17,100,100,40,https://www.superherodb.com/pictures2/portraits/10/100/10578.jpg
+534,Quantum,,HarperCollins,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1157.jpg
+535,Question,Charles Victor Szasz,DC Comics,-,81,14,27,35,20,80,https://www.superherodb.com/pictures2/portraits/10/100/760.jpg
+536,Quicksilver,Pietro Django Maximoff,Marvel Comics,"Wundagore Mountain, Transia (in Eastern Europe)",63,28,100,60,81,56,https://www.superherodb.com/pictures2/portraits/10/100/115.jpg
+537,Quill,Maxwell Jordan,Marvel Comics,-,38,10,12,14,23,14,https://www.superherodb.com/pictures2/portraits/10/100/830.jpg
+538,Ra's Al Ghul,Ra's Al Ghul,DC Comics,Egypt,100,28,32,42,27,100,https://www.superherodb.com/pictures2/portraits/10/100/761.jpg
+539,Rachel Pirzad,,SyFy,-,63,4,8,10,52,10,https://www.superherodb.com/pictures2/portraits/10/100/1530.jpg
+540,Rambo,John Rambo,null,"Bowie, Arizona",63,14,25,30,30,100,https://www.superherodb.com/pictures2/portraits/10/100/10475.jpg
+541,Raphael,,IDW Publishing,-,63,17,50,65,59,80,https://www.superherodb.com/pictures2/portraits/10/100/10328.jpg
+542,Raven,Rachel Roth,DC Comics,Azarath,50,10,29,70,84,40,https://www.superherodb.com/pictures2/portraits/10/100/764.jpg
+543,Ray,Ray Terrill,DC Comics,-,50,10,92,100,100,20,https://www.superherodb.com/pictures2/portraits/10/100/10204.jpg
+544,Razor-Fist II,Douglas Scott,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/935.jpg
+545,Red Arrow,Roy Harper,DC Comics,-,63,16,25,20,23,80,https://www.superherodb.com/pictures2/portraits/10/100/1013.jpg
+546,Red Hood,Jason Todd,Robin II,-,75,12,23,28,35,95,https://www.superherodb.com/pictures2/portraits/10/100/932.jpg
+547,Red Hulk,Thaddeus E. Ross,Marvel Comics,-,50,100,47,85,82,75,https://www.superherodb.com/pictures2/portraits/10/100/1342.jpg
+548,Red Mist,Chris Genovese,Icon Comics,-,25,10,23,14,20,56,https://www.superherodb.com/pictures2/portraits/10/100/1337.jpg
+549,Red Robin,Tim Drake,Robin III,Gotham City,81,11,27,32,29,80,https://www.superherodb.com/pictures2/portraits/10/100/10009.jpg
+550,Red Skull,Johann Shmidt,Marvel Comics,An unidentified village in Germany,75,10,12,14,19,80,https://www.superherodb.com/pictures2/portraits/10/100/1392.jpg
+551,Red Tornado,John Smith,DC Comics,-,75,38,67,60,100,40,https://www.superherodb.com/pictures2/portraits/10/100/1149.jpg
+552,Redeemer II,Phil Timper,Image Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1081.jpg
+553,Redeemer III,Eddie Frank,Image Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1092.jpg
+554,Renata Soliz,,HarperCollins,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1151.jpg
+555,Rey,,George Lucas,Jakku,63,8,21,10,87,35,https://www.superherodb.com/pictures2/portraits/10/100/10561.jpg
+556,Rhino,Aleksei Mikhailovich Sytsevich,Marvel Comics,-,25,80,43,90,36,85,https://www.superherodb.com/pictures2/portraits/10/100/15.jpg
+557,Rick Flag,Richard Rogers Flag,DC Comics,-,88,11,23,28,19,95,https://www.superherodb.com/pictures2/portraits/10/100/1352.jpg
+558,Riddler,Edward Nigma,DC Comics,-,100,10,12,14,10,14,https://www.superherodb.com/pictures2/portraits/10/100/768.jpg
+559,Rip Hunter,Richard Hunter,DC Comics,-,100,8,8,10,100,25,https://www.superherodb.com/pictures2/portraits/10/100/10543.jpg
+560,Ripcord,Miranda Leevald,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1291.jpg
+561,Robin,Dick Grayson,Batman II,-,88,11,27,28,32,85,https://www.superherodb.com/pictures2/portraits/10/100/850.jpg
+562,Robin II,Jason Todd,Red Hood,-,75,11,27,28,28,85,https://www.superherodb.com/pictures2/portraits/10/100/849.jpg
+563,Robin III,Tim Drake,Red Robin,-,81,11,27,28,29,85,https://www.superherodb.com/pictures2/portraits/10/100/769.jpg
+564,Robin V,Damian Wayne,DC Comics,-,69,8,33,16,29,65,https://www.superherodb.com/pictures2/portraits/10/100/1473.jpg
+565,Robin VI,Carrie Kelley,DC Comics,Gotham City,50,8,25,20,17,70,https://www.superherodb.com/pictures2/portraits/10/100/10394.jpg
+566,Rocket Raccoon,Rocket Raccoon,Marvel Comics,-,50,5,23,28,28,64,https://www.superherodb.com/pictures2/portraits/10/100/10010.jpg
+567,Rogue,Anna Marie,Marvel Comics,"Caldecott County, Mississippi",75,10,12,28,80,80,https://www.superherodb.com/pictures2/portraits/10/100/831.jpg
+568,Ronin,Clint Barton,Goliath,"Waverly, Iowa",56,12,21,10,13,80,https://www.superherodb.com/pictures2/portraits/10/100/1202.jpg
+569,Rorschach,Walter Joseph Kovacs,DC Comics,-,75,10,29,20,23,80,https://www.superherodb.com/pictures2/portraits/10/100/771.jpg
+570,Sabretooth,Victor Creed,Marvel Comics,-,56,48,38,90,50,100,https://www.superherodb.com/pictures2/portraits/10/100/17.jpg
+571,Sage,Tessa,Marvel Comics,Place of birth unknown,75,10,12,14,28,56,https://www.superherodb.com/pictures2/portraits/10/100/117.jpg
+572,Sandman,William Baker,Marvel Comics,"Queens, New York",44,75,46,90,100,60,https://www.superherodb.com/pictures2/portraits/10/100/621.jpg
+573,Sasquatch,Walter Langkowski,Marvel Comics,"Edmonton, Alberta, Canada",75,80,23,56,15,42,https://www.superherodb.com/pictures2/portraits/10/100/863.jpg
+574,Sauron,Sauron,J. R. R. Tolkien,-,88,85,33,100,100,70,https://www.superherodb.com/pictures2/portraits/10/100/10849.jpg
+575,Savage Dragon,Kurr,Image Comics,-,63,70,54,85,66,72,https://www.superherodb.com/pictures2/portraits/10/100/1117.jpg
+576,Scarecrow,Jonathan Crane,DC Comics,-,81,10,12,14,48,50,https://www.superherodb.com/pictures2/portraits/10/100/819.jpg
+577,Scarlet Spider,Benjamin Reilly,Spider-Carnage,Place of birth unknown,75,53,60,74,46,56,https://www.superherodb.com/pictures2/portraits/10/100/174.jpg
+578,Scarlet Spider II,Kaine Parker,Marvel Comics,-,88,55,60,40,37,56,https://www.superherodb.com/pictures2/portraits/10/100/1536.jpg
+579,Scarlet Witch,Wanda Maximoff,Marvel Comics,"Wundagore Mountain, Transia",100,10,29,70,100,80,https://www.superherodb.com/pictures2/portraits/10/100/444.jpg
+580,Scorpia,Elaine Coll,Marvel Comics,-,38,28,42,28,34,28,https://www.superherodb.com/pictures2/portraits/10/100/1123.jpg
+581,Scorpion,MacDonald Gargan,Venom III,-,50,52,60,85,49,80,https://www.superherodb.com/pictures2/portraits/10/100/1041.jpg
+582,Sebastian Shaw,Sebastian Hiram Shaw,Marvel Comics,-,63,85,12,95,36,56,https://www.superherodb.com/pictures2/portraits/10/100/1482.jpg
+583,Sentry,Robert Reynolds,Marvel Comics,-,75,100,100,84,100,40,https://www.superherodb.com/pictures2/portraits/10/100/447.jpg
+584,Shadow King,Amahl Farouk,Marvel Comics,-,75,12,27,100,100,75,https://www.superherodb.com/pictures2/portraits/10/100/121.jpg
+585,Shadow Lass,Tasmia Mallor,DC Comics,Talok VIII,63,10,67,20,79,80,https://www.superherodb.com/pictures2/portraits/10/100/1195.jpg
+586,Shadowcat,Kitty Pryde,Marvel Comics,"Deerfield, Illinois",88,8,21,25,69,70,https://www.superherodb.com/pictures2/portraits/10/100/122.jpg
+587,Shang-Chi,Shang-Chi,Marvel Comics,-,63,12,30,50,29,100,https://www.superherodb.com/pictures2/portraits/10/100/454.jpg
+588,Shatterstar,Gaveedra Seven,Marvel Comics,Mojoworld,63,48,45,64,49,84,https://www.superherodb.com/pictures2/portraits/10/100/124.jpg
+589,She-Hulk,Jennifer Walters,Marvel Comics,"Los Angeles, California",81,100,42,100,40,70,https://www.superherodb.com/pictures2/portraits/10/100/125.jpg
+590,She-Thing,Sharon Ventura,Ms Marvel II,-,69,72,21,80,23,65,https://www.superherodb.com/pictures2/portraits/10/100/461.jpg
+591,Shocker,Herman Schultz,Marvel Comics,-,63,10,23,70,79,56,https://www.superherodb.com/pictures2/portraits/10/100/19.jpg
+592,Shriek,Frances Louise Barrison,Marvel Comics,-,50,10,23,28,45,42,https://www.superherodb.com/pictures2/portraits/10/100/1319.jpg
+593,Shrinking Violet,,DC Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1188.jpg
+594,Sif,Sif,Marvel Comics,-,63,90,67,80,100,70,https://www.superherodb.com/pictures2/portraits/10/100/1533.jpg
+595,Silk,Cindy Moon,Marvel Comics,-,75,48,71,70,71,65,https://www.superherodb.com/pictures2/portraits/10/100/10495.jpg
+596,Silk Spectre,Sally Juspeczyk,DC Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1057.jpg
+597,Silk Spectre II,Laurie Juspeczyk,DC Comics,-,null,51,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1058.jpg
+598,Silver Surfer,Norrin Radd,Marvel Comics,Zenn-La,56,100,100,90,100,32,https://www.superherodb.com/pictures2/portraits/10/100/127.jpg
+599,Silverclaw,Maria de Guadalupe Santiago,Marvel Comics,"The village of Kamekeri, Costa Verde",50,28,35,42,34,42,https://www.superherodb.com/pictures2/portraits/10/100/1019.jpg
+600,Simon Baz,Simoon Baz,DC Comics,"Dearborn, Michigan",56,90,42,55,100,60,https://www.superherodb.com/pictures2/portraits/10/100/10649.jpg
+601,Sinestro,Thaal Sinestro,DC Comics,"Korugar City, Korugar",75,85,53,64,100,55,https://www.superherodb.com/pictures2/portraits/10/100/781.jpg
+602,Siren,Hila,DC Comics,-,56,62,79,60,92,60,https://www.superherodb.com/pictures2/portraits/10/100/1387.jpg
+603,Siren II,La Sirene la Bailene,DC Comics,Atlantis,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1386.jpg
+604,Siryn,Theresa Rourke Cassidy,Marvel Comics,"Cassidy Keep, County Mayo, Ireland",38,8,47,28,50,42,https://www.superherodb.com/pictures2/portraits/10/100/833.jpg
+605,Skaar,,Marvel Comics,Sakaar,50,85,27,90,69,85,https://www.superherodb.com/pictures2/portraits/10/100/1341.jpg
+606,Snake-Eyes,,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/10437.jpg
+607,Snowbird,Narya,Marvel Comics,"Near Resolute Bay, Northwest Territories, Canada",50,32,27,42,70,52,https://www.superherodb.com/pictures2/portraits/10/100/130.jpg
+608,Sobek,Yurrd the Unknown,DC Comics,Nile River; Bioengineered at Oolong Island,50,34,23,46,20,56,https://www.superherodb.com/pictures2/portraits/10/100/1166.jpg
+609,Solomon Grundy,Cyrus Gold,DC Comics,Gotham City,9,93,13,100,92,30,https://www.superherodb.com/pictures2/portraits/10/100/782.jpg
+610,Songbird,Melissa Joan Gold,Marvel Comics,"Shoshoni, Wyoming",75,36,27,42,55,56,https://www.superherodb.com/pictures2/portraits/10/100/131.jpg
+611,Space Ghost,Thaddeus Bach,DC Comics,-,38,18,33,40,95,80,https://www.superherodb.com/pictures2/portraits/10/100/1505.jpg
+612,Spawn,Al Simmons,Image Comics,"Detroit, Michigan (8th level of Hell after rebirth)",75,60,50,90,100,95,https://www.superherodb.com/pictures2/portraits/10/100/842.jpg
+613,Spectre,Aztar,Aztar,-,88,100,100,100,100,70,https://www.superherodb.com/pictures2/portraits/10/100/784.jpg
+614,Speedball,Robert Baldwin,Penance II,"Springdale, Connecticut",null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/132.jpg
+615,Speedy,Thea Queen,DC Comics,Starling City,50,6,33,20,26,70,https://www.superherodb.com/pictures2/portraits/10/100/10558.jpg
+616,Speedy,"Roy William Harper, Jr.",Arsenal,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1015.jpg
+617,Spider-Carnage,Benjamin Reilly,Scarlet Spider,-,null,69,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/957.jpg
+618,Spider-Girl,May 'Mayday' Parker,Marvel Comics,"New York City, New York",63,38,60,65,53,75,https://www.superherodb.com/pictures2/portraits/10/100/480.jpg
+619,Spider-Gwen,Gwen Stacy,Marvel Comics,-,75,55,63,70,66,70,https://www.superherodb.com/pictures2/portraits/10/100/10507.jpg
+620,Spider-Man,Peter Parker,Marvel Comics,"New York, New York",90,55,67,75,74,85,https://www.superherodb.com/pictures2/portraits/10/100/133.jpg
+621,Spider-Man,Miguel O'Hara,Marvel Comics,-,null,57,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/479.jpg
+622,Spider-Man,Miles Morales,Marvel Comics,-,null,58,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/10647.jpg
+623,Spider-Woman,Jessica Drew,Marvel Comics,"London, England",56,42,42,60,68,70,https://www.superherodb.com/pictures2/portraits/10/100/481.jpg
+624,Spider-Woman II,,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/483.jpg
+625,Spider-Woman III,Martha Franklin,Marvel Comics,"Rochester, New York",50,48,27,42,60,28,https://www.superherodb.com/pictures2/portraits/10/100/482.jpg
+626,Spider-Woman IV,Charlotte Witter,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/883.jpg
+627,Spock,S'chn T'gai Spock,Star Trek,-,81,18,17,40,56,40,https://www.superherodb.com/pictures2/portraits/10/100/10566.jpg
+628,Spyke,Evan Daniels,Marvel Comics,-,50,12,17,60,48,30,https://www.superherodb.com/pictures2/portraits/10/100/1455.jpg
+629,Stacy X,,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/485.jpg
+630,Star-Lord,Peter Jason Quill,Marvel Comics,-,69,20,33,50,25,70,https://www.superherodb.com/pictures2/portraits/10/100/10015.jpg
+631,Stardust,,Marvel Comics,-,88,85,100,110,100,85,https://www.superherodb.com/pictures2/portraits/10/100/1052.jpg
+632,Starfire,Koriand'r,DC Comics,Tamaran,50,80,33,85,59,70,https://www.superherodb.com/pictures2/portraits/10/100/786.jpg
+633,Stargirl,Courtney Whitmore,DC Comics,-,63,80,25,90,87,55,https://www.superherodb.com/pictures2/portraits/10/100/1326.jpg
+634,Static,Virgil Hawkins,DC Comics,"Paris Island, Dakota City",69,8,42,50,90,40,https://www.superherodb.com/pictures2/portraits/10/100/1471.jpg
+635,Steel,John Henry Irons,DC Comics,"Washington, D.C.",81,82,53,90,64,64,https://www.superherodb.com/pictures2/portraits/10/100/1383.jpg
+636,Stephanie Powell,Stephanie Powell,ABC Studios,-,69,10,54,10,24,10,https://www.superherodb.com/pictures2/portraits/10/100/1355.jpg
+637,Steppenwolf,,DC Comics,-,94,100,83,100,100,100,https://www.superherodb.com/pictures2/portraits/10/100/10653.jpg
+638,Storm,Ororo Munroe,Marvel Comics,"New York, New York",75,10,47,30,88,75,https://www.superherodb.com/pictures2/portraits/10/100/135.jpg
+639,Stormtrooper,,George Lucas,-,10,8,8,15,5,20,https://www.superherodb.com/pictures2/portraits/10/100/10539.jpg
+640,Sunspot,Roberto DaCosta,Marvel Comics,"Rio de Janeiro, Brazil",63,63,35,25,90,70,https://www.superherodb.com/pictures2/portraits/10/100/138.jpg
+641,Superboy,Kon-El / Conner Kent,DC Comics,Project Cadmus cloning facility,75,95,83,90,95,60,https://www.superherodb.com/pictures2/portraits/10/100/789.jpg
+642,Superboy-Prime,Kal-El,DC Comics,Krypton (Earth-Prime),94,100,100,100,100,85,https://www.superherodb.com/pictures2/portraits/10/100/1535.jpg
+643,Supergirl,Kara Zor-El,DC Comics,"Argo City, Krypton",94,100,100,100,100,75,https://www.superherodb.com/pictures2/portraits/10/100/790.jpg
+644,Superman,Clark Kent,Superman Prime One-Million,Krypton,94,100,100,100,100,85,https://www.superherodb.com/pictures2/portraits/10/100/791.jpg
+645,Swamp Thing,Alec Holland,DC Comics,-,88,95,25,100,100,55,https://www.superherodb.com/pictures2/portraits/10/100/792.jpg
+646,Swarm,Fritz von Meyer,Marvel Comics,-,75,18,50,90,38,35,https://www.superherodb.com/pictures2/portraits/10/100/10428.jpg
+647,Sylar,Gabriel Gray,NBC - Heroes,-,75,10,12,28,91,56,https://www.superherodb.com/pictures2/portraits/10/100/953.jpg
+648,Synch,Everett Thomas,Marvel Comics,-,75,67,23,28,74,56,https://www.superherodb.com/pictures2/portraits/10/100/175.jpg
+649,T-1000,Cyberdyne Systems Series 1000 Terminator,Dark Horse Comics,-,75,34,33,100,100,75,https://www.superherodb.com/pictures2/portraits/10/100/10411.jpg
+650,T-800,Cyberdyne Systems Series 800 Terminator Model 101,Dark Horse Comics,-,75,34,17,60,73,65,https://www.superherodb.com/pictures2/portraits/10/100/10409.jpg
+651,T-850,Cyberdyne Systems Series 850 Terminator,Dark Horse Comics,-,75,80,25,90,83,75,https://www.superherodb.com/pictures2/portraits/10/100/10410.jpg
+652,T-X,Cyberdyne Systems Series X Terminator,Dark Horse Comics,-,75,63,29,85,100,80,https://www.superherodb.com/pictures2/portraits/10/100/10412.jpg
+653,Taskmaster,Tony Masters,Marvel Comics,-,75,12,50,20,63,100,https://www.superherodb.com/pictures2/portraits/10/100/21.jpg
+654,Tempest,Angel Salvadore Bohusk,Angel Salvadore,-,38,10,45,28,66,60,https://www.superherodb.com/pictures2/portraits/10/100/1407.jpg
+655,Thanos,Thanos,Marvel Comics,Titan,100,100,33,100,100,80,https://www.superherodb.com/pictures2/portraits/10/100/1305.jpg
+656,The Cape,Vince Faraday,null,-,38,10,23,32,22,64,https://www.superherodb.com/pictures2/portraits/10/100/1375.jpg
+657,The Comedian,Edward Morgen Blake,DC Comics,-,63,14,17,10,12,80,https://www.superherodb.com/pictures2/portraits/10/100/1062.jpg
+658,Thing,Ben Grimm,Marvel Comics,"New York City, New York",75,84,21,100,38,80,https://www.superherodb.com/pictures2/portraits/10/100/139.jpg
+659,Thor,Thor Odinson,Rune King Thor,Asgard,69,100,83,100,100,100,https://www.superherodb.com/pictures2/portraits/10/100/140.jpg
+660,Thor Girl,Tarene,Marvel Comics,-,75,83,70,84,100,70,https://www.superherodb.com/pictures2/portraits/10/100/1296.jpg
+661,Thunderbird,John Proudstar,Marvel Comics,"Camp Verde, Arizona",50,32,27,32,13,70,https://www.superherodb.com/pictures2/portraits/10/100/611.jpg
+662,Thunderbird II,James Proudstar,Warpath,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/927.jpg
+663,Thunderbird III,Neal Shaara,Marvel Comics,Bangladesh,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/141.jpg
+664,Thunderstrike,Eric Kevin Masterson,Marvel Comics,-,63,80,70,84,42,72,https://www.superherodb.com/pictures2/portraits/10/100/177.jpg
+665,Thundra,Thundra,Marvel Comics,-,38,81,32,64,26,54,https://www.superherodb.com/pictures2/portraits/10/100/508.jpg
+666,Tiger Shark,Todd Arliss,Marvel Comics,"Pasadena, California",38,72,46,70,51,28,https://www.superherodb.com/pictures2/portraits/10/100/10047.jpg
+667,Tigra,Greer Grant Nelson,Marvel Comics,Presumably Chicago Illinois USA,63,32,53,38,33,90,https://www.superherodb.com/pictures2/portraits/10/100/42.jpg
+668,Tinkerer,Phineas Mason,Marvel Comics,-,100,10,23,14,10,14,https://www.superherodb.com/pictures2/portraits/10/100/1036.jpg
+669,Titan,,HarperCollins,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1154.jpg
+670,Toad,Mortimer Toynbee,Marvel Comics,"York, England",50,34,58,56,70,28,https://www.superherodb.com/pictures2/portraits/10/100/1125.jpg
+671,Toxin,Patrick Mulligan,Marvel Comics,New York City,56,73,70,84,82,70,https://www.superherodb.com/pictures2/portraits/10/100/848.jpg
+672,Toxin,Eddie Brock,Anti-Venom,"San Francisco, California",75,80,42,85,97,70,https://www.superherodb.com/pictures2/portraits/10/100/10494.jpg
+673,Tracy Strauss,Tracy Strauss,NBC - Heroes,"Beverly Hills, CA",null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1312.jpg
+674,Trickster,Giovanni Giuseppe,DC Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1468.jpg
+675,Trigon,,DC Comics,-,null,99,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/10703.jpg
+676,Triplicate Girl,Luornu Durgo,DC Comics,-,63,10,23,42,44,42,https://www.superherodb.com/pictures2/portraits/10/100/1185.jpg
+677,Triton,Triton,Marvel Comics,"Island of Attilan, Atlantic Ocean",56,63,50,65,35,55,https://www.superherodb.com/pictures2/portraits/10/100/513.jpg
+678,Two-Face,Harvey Dent,DC Comics,-,88,10,12,14,9,28,https://www.superherodb.com/pictures2/portraits/10/100/802.jpg
+679,Ultragirl,Tsu-Zana,Marvel Comics,-,50,80,35,70,35,80,https://www.superherodb.com/pictures2/portraits/10/100/1295.jpg
+680,Ultron,Ultron,Marvel Comics,"Created in Cresskill, New Jersey",88,83,42,100,100,64,https://www.superherodb.com/pictures2/portraits/10/100/1339.jpg
+681,Utgard-Loki,,Marvel Comics,Jotunheim,50,80,23,84,85,64,https://www.superherodb.com/pictures2/portraits/10/100/1484.jpg
+682,Vagabond,Priscilla Lyons,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/145.jpg
+683,Valerie Hart,,Team Epic TV,"East Coast, Canada",null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1004.jpg
+684,Valkyrie,Brunnhilde (also spelled Brunnhilda),Marvel Comics,Presumably Asgard,null,94,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/147.jpg
+685,Vanisher,,Marvel Comics,"Boston, Massachusetts",63,10,75,56,61,42,https://www.superherodb.com/pictures2/portraits/10/100/1105.jpg
+686,Vegeta,Vegeta,Shueisha,-,81,100,92,95,100,100,https://www.superherodb.com/pictures2/portraits/10/100/1206.jpg
+687,Venom,Eddie Brock,Anti-Venom,"New York, New York",75,57,65,84,86,84,https://www.superherodb.com/pictures2/portraits/10/100/22.jpg
+688,Venom II,Angelo Fortunato,Marvel Comics,-,50,57,47,70,54,56,https://www.superherodb.com/pictures2/portraits/10/100/1124.jpg
+689,Venom III,MacDonald Gargan,Scorpion,-,63,73,35,90,73,56,https://www.superherodb.com/pictures2/portraits/10/100/1042.jpg
+690,Venompool,Wade Wilson,Deadpool,-,69,57,63,100,100,100,https://www.superherodb.com/pictures2/portraits/10/100/10618.jpg
+691,Vertigo II,-,Blaquesmith,The Savage Land,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/149.jpg
+692,Vibe,Cisco Ramon,DC Comics,-,50,10,17,30,99,30,https://www.superherodb.com/pictures2/portraits/10/100/10509.jpg
+693,Vindicator,Heather Hudson,Vindicator II,"Calgary, Alberta, Canada",63,63,53,64,58,70,https://www.superherodb.com/pictures2/portraits/10/100/150.jpg
+694,Vindicator,Dr. James McDonald Hudson,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/530.jpg
+695,Violator,,Image Comics,-,null,53,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1064.jpg
+696,Violet Parr,Violet Parr,Dark Horse Comics,-,56,9,13,50,79,15,https://www.superherodb.com/pictures2/portraits/10/100/825.jpg
+697,Vision,Vision,Anti-Vision,-,100,72,54,95,100,70,https://www.superherodb.com/pictures2/portraits/10/100/532.jpg
+698,Vision II,Vision,Anti-Vision,Place of birth unknown,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/151.jpg
+699,Vixen,Mari McCabe,DC Comics,Zambesi,50,38,50,50,62,25,https://www.superherodb.com/pictures2/portraits/10/100/10109.jpg
+700,Vulcan,Gabriel Summers,Marvel Comics,-,null,56,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/854.jpg
+701,Vulture,Adrian Toomes,Marvel Comics,"Staten Island, New York City",75,22,42,25,26,30,https://www.superherodb.com/pictures2/portraits/10/100/1031.jpg
+702,Walrus,Hubert Carpent,Marvel Comics,"Brooklyn, New York",50,28,8,50,11,20,https://www.superherodb.com/pictures2/portraits/10/100/10058.jpg
+703,War Machine,James Rupert Rhodes,Marvel Comics,"Philadelphia, Pennsylvania",63,80,63,100,100,85,https://www.superherodb.com/pictures2/portraits/10/100/536.jpg
+704,Warbird,Carol Danvers,Binary,"Boston, Massachusetts",null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/153.jpg
+705,Warlock,Adam Warlock,Marvel Comics,"The Beehive, Shard Island, Atlantic Ocean",88,36,79,95,71,95,https://www.superherodb.com/pictures2/portraits/10/100/154.jpg
+706,Warp,Emil LaSalle,DC Comics,-,38,10,23,28,85,50,https://www.superherodb.com/pictures2/portraits/10/100/1353.jpg
+707,Warpath,James Proudstar,Thunderbird II,"Camp Verde, Arizona",38,72,47,70,26,84,https://www.superherodb.com/pictures2/portraits/10/100/541.jpg
+708,Wasp,Janet Van Dyne,Marvel Comics,"Cresskill, New Jersey",63,17,58,52,29,42,https://www.superherodb.com/pictures2/portraits/10/100/155.jpg
+709,Watcher,Uatu,Marvel Comics,-,100,80,67,89,100,56,https://www.superherodb.com/pictures2/portraits/10/100/516.jpg
+710,Weapon XI,Weapon XI,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1318.jpg
+711,White Canary,,DC Comics,-,63,7,33,15,49,90,https://www.superherodb.com/pictures2/portraits/10/100/10542.jpg
+712,White Queen,Emma Grace Frost,Marvel Comics,"Boston, Massachusetts",null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/157.jpg
+713,Wildfire,Drake Burroughs,DC Comics,-,50,32,23,100,77,42,https://www.superherodb.com/pictures2/portraits/10/100/1186.jpg
+714,Winter Soldier,Bucky Barnes,Marvel Comics,-,56,32,35,65,60,84,https://www.superherodb.com/pictures2/portraits/10/100/10027.jpg
+715,Wiz Kid,Takashi Matsuya,Marvel Comics,Place of birth unknown,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/159.jpg
+716,Wolfsbane,Rahne Sinclair,Marvel Comics,"Somewhere in Ross and Cromarty, Scotland",38,16,35,42,26,42,https://www.superherodb.com/pictures2/portraits/10/100/160.jpg
+717,Wolverine,Logan,Marvel Comics,"Alberta, Canada",63,32,50,100,89,100,https://www.superherodb.com/pictures2/portraits/10/100/161.jpg
+718,Wonder Girl,Cassandra Elizabeth Sandsmark,DC Comics,-,75,90,25,80,39,60,https://www.superherodb.com/pictures2/portraits/10/100/1497.jpg
+719,Wonder Man,Simon Williams,Marvel Comics,"Paterson, New Jersey",75,100,53,90,64,64,https://www.superherodb.com/pictures2/portraits/10/100/162.jpg
+720,Wonder Woman,Diana Prince,DC Comics,Themyscira,88,100,79,100,100,100,https://www.superherodb.com/pictures2/portraits/10/100/807.jpg
+721,Wondra,,Marvel Comics,-,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/1290.jpg
+722,Wyatt Wingfoot,Wyatt Wingfoot,Marvel Comics,"Keewazi Reservation, Oklahoma",10,10,12,1,1,56,https://www.superherodb.com/pictures2/portraits/10/100/164.jpg
+723,X-23,Laura Kinney,Marvel Comics,"The Facility, location unrevealed",75,24,42,100,55,95,https://www.superherodb.com/pictures2/portraits/10/100/565.jpg
+724,X-Man,Nate Grey,Marvel Comics,American Northeast of Earth-295,88,53,53,95,100,84,https://www.superherodb.com/pictures2/portraits/10/100/1150.jpg
+725,Yellow Claw,,Marvel Comics,Somewhere in mainland China,null,null,null,null,null,null,https://www.superherodb.com/pictures2/portraits/10/100/23.jpg
+726,Yellowjacket,Hank Pym,Ant-Man,"Elmsford, New York",88,10,12,28,12,14,https://www.superherodb.com/pictures2/portraits/10/100/70.jpg
+727,Yellowjacket II,Rita DeMara,Marvel Comics,-,50,10,35,28,31,28,https://www.superherodb.com/pictures2/portraits/10/100/178.jpg
+728,Ymir,Ymir,Marvel Comics,Niffleheim,50,100,27,100,98,28,https://www.superherodb.com/pictures2/portraits/10/100/179.jpg
+729,Yoda,Yoda,George Lucas,-,88,52,33,25,100,90,https://www.superherodb.com/pictures2/portraits/10/100/10454.jpg
+730,Zatanna,Zatanna Zatara,DC Comics,-,81,10,23,28,100,56,https://www.superherodb.com/pictures2/portraits/10/100/809.jpg
+731,Zoom,Hunter Zolomon,DC Comics,-,50,10,100,28,100,28,https://www.superherodb.com/pictures2/portraits/10/100/1384.jpg
